@@ -7,15 +7,13 @@ class Solution {
         }
         
         List<Integer> list = new ArrayList<>(map.values());
-        int count = 0;
+    
         for(int val : list){
             if(val % 2 == 1){
                 return false;
-            }else{
-                count += (val/2) ;
             }
         }
       
-        return count == nums.length/2;
+        return true;
     }
 }
