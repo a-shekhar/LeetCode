@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/second-largest-digit-in-a-string/">1904. Second Largest Digit in a String</a></h2><h3>Easy</h3><hr><p>Given an alphanumeric string <code>s</code>, return <em>the <strong>second largest</strong> numerical digit that appears in </em><code>s</code><em>, or </em><code>-1</code><em> if it does not exist</em>.</p>
+<h2><a href="https://leetcode.com/problems/second-largest-digit-in-a-string">Second Largest Digit in a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an alphanumeric string <code>s</code>, return <em>the <strong>second largest</strong> numerical digit that appears in </em><code>s</code><em>, or </em><code>-1</code><em> if it does not exist</em>.</p>
 
 <p>An <strong>alphanumeric</strong><strong> </strong>string is a string consisting of lowercase English letters and digits.</p>
 
