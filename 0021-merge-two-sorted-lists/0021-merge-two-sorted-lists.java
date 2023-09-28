@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-
+        
         List<Integer> list = new ArrayList<>();
 
         while(list1 != null){
@@ -23,10 +23,10 @@ class Solution {
             list2 = list2.next;
         }
 
-        if(list.isEmpty()){
-            return null;
-        }
-
+       if(list.isEmpty()){
+           return null;
+       }
+       
         Collections.sort(list);
         ListNode head = new ListNode(list.get(0));
         ListNode curr = head;
