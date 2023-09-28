@@ -1,14 +1,19 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-     
-        for(int num : nums){
-            if(num % 2 == 0){
-                list.add(0, num);
+        int[] ans = new int[nums.length];
+        int i = 0;
+        int j = nums.length-1;
+        int index = 0;
+        while(index < nums.length){
+            if(nums[index] % 2 == 0){
+                ans[i] = nums[index];
+                i++;
             }else{
-                list.add(num);
-            }  
+                ans[j] = nums[index];
+                j--;
+            }
+            index++;
         }
-        return list.stream().mapToInt(Integer::intValue).toArray();
+        return ans;
     }
 }
