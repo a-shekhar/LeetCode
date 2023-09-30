@@ -1,26 +1,19 @@
 class Solution {
      public boolean checkZeroOnes(String s) {
         int ones = 0;
-        int zero = 0;
+        int zeros = 0;
+        int maxZero = 0;
+        int maxOnes = 0;
 
-        if(s.charAt(0) == '0'){
-            zero = 1;
-        }else {
-            ones = 1;
-        }
-        int maxZero = zero;
-        int maxOnes = ones;
-        for(int i = 1; i< s.length(); i++){
-            if(s.charAt(i) == '1' && s.charAt(i-1) == s.charAt(i)){
+        for(int i = 0; i< s.length(); i++){
+            if(s.charAt(i) == '1'){
                 ones++;
-            } else if (s.charAt(i) == '1' && s.charAt(i-1) != s.charAt(i)) {
-                ones = 1;
-            } else if (s.charAt(i) == '0' && s.charAt(i-1) == s.charAt(i)) {
-                zero++;
-            } else if (s.charAt(i) == '0' && s.charAt(i-1) != s.charAt(i)) {
-                zero = 1;
+                zeros = 0;
+            } else if (s.charAt(i) == '0') {
+                zeros++;
+                ones = 0;
             }
-            maxZero = Math.max(zero, maxZero);
+            maxZero = Math.max(zeros, maxZero);
             maxOnes = Math.max(ones, maxOnes);
         }
         return maxOnes > maxZero;
