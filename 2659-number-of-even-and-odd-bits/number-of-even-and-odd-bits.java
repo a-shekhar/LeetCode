@@ -3,10 +3,8 @@ class Solution {
         boolean evenFlag = true;
         int even = 0;
         int odd = 0;
-        int rem = 0;
         while (n > 0){
-            rem = n % 2;
-            if(rem == 1) {
+            if(n % 2 == 1) {
                 if (evenFlag) {
                     even++;
                 } else {
