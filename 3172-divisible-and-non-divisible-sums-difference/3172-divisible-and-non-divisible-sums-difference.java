@@ -5,7 +5,6 @@ class Solution {
         int i = 1;
         while(m * i <= n){
             num2 += m  * i;
-            System.out.println(num2);
             i++;
         }
         return num1-(2 * num2);
