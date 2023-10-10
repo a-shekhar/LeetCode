@@ -1,22 +1,21 @@
 class Solution {
     public int maximumPopulation(int[][] logs) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int arr[] = new int[101];
         int temp = 0;
         int max = 0;
         for(int[] log : logs){
             for(int year = log[0]; year < log[1]; year++){
-                temp = map.getOrDefault(year, 0) + 1;
-                max = Math.max(max, temp);
-                map.put(year, temp);
+                arr[year-1950]++;
+                max = Math.max(max, arr[year-1950]);
             }
         }
-  
-        int year = Integer.MAX_VALUE;
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            if(entry.getValue() == max){
-                year = Math.min(year, entry.getKey());
+    
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] == max){
+                return i  +  1950;
             }
         }
-        return year;
+        
+        return 0;
     }
 }
