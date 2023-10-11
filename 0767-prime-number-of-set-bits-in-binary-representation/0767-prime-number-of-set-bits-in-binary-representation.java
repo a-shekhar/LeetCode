@@ -1,6 +1,6 @@
 class Solution {
     public int countPrimeSetBits(int left, int right) {
-        boolean[] primeNumbers = new boolean[25];
+        Map<Integer, Boolean> map = new HashMap<>();
         int ones = 0;
         int n;
         int primes = 0;
@@ -13,15 +13,17 @@ class Solution {
                 }
                 n /= 2;
             }
-            System.out.println(ones);
+            
+            boolean isPrime;
 
-            if(primeNumbers[ones]){
-                primes++;
-                System.out.println("aditya" + " " + primes);
-            }else if(isPrime(ones)){
-                primes++;
-                primeNumbers[ones] = true;
-                System.out.println("raj" + " " + primes);
+            if(map.containsKey(ones)){
+                if(map.get(ones)){
+                    primes++;
+                }
+            }else{
+                isPrime = isPrime(ones);
+                map.put(ones, isPrime);
+                primes = isPrime ? primes + 1 : primes;
             }
         }
         return primes;
