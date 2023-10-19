@@ -1,17 +1,13 @@
 class Solution {
     public boolean findSubarrays(int[] nums) {
-        int i = 0;
-        int j = nums.length-1;
-        List<Integer> list = new ArrayList<>();
+        Set<Integer> set = new HashSet<>();
         int sum;
-        while(i < j-1){
-            sum = nums[i] + nums[i+1];
-            list.add(sum);
-            if(list.contains(nums[j] + nums[j-1])){
+        for(int i=1; i<nums.length; i++){
+            sum = nums[i] + nums[i-1];
+            if(set.contains(sum)){
                 return true;
             }
-            i++;
-            j--;
+            set.add(sum);
         }
         return false;
     }
