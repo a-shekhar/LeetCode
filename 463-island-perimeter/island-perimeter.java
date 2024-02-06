@@ -1,54 +1,32 @@
 class Solution {
-         public static int islandPerimeter(int[][] grid) {
-        int perimeter = 0;
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[i].length; j++) {
-                if (grid[i][j] == 1) {
-                    int mc= modularCount(grid, i, j);
-                    perimeter += mc;
-                }
-            }
-        }
-        return perimeter;
-    }
-
-    private static int modularCount(int[][] grid, int x, int y) {
-        int res = 0;
-        int posx = x;
-        int posy = y;
-
-        x -= 1;
-        if (x < 0) res += 1;
-        else {
-            if (grid[x][y] == 0) res += 1;
-        }
-
-        x = posx;
-
-        y -= 1;
-        if (y < 0) res += 1;
-        else {
-            if (grid[x][y] == 0) res += 1;
-        }
-
-        y = posy;
-
-        y+=1;
-        if (y >= grid[0].length)
-            res += 1;
-        else {
-            if (grid[x][y] == 0) res += 1;
-        }
-
-        y = posy;
-
-        x+=1;
-        if (x >= grid.length)
-            res += 1;
-        else {
-            if (grid[x][y] == 0) res += 1;
-        }
-
-        return res;
+        public static int islandPerimeter(int[][] arr) {
+        if(arr.length == 0) {
+			return 0;
+		}
+		int m = arr.length;
+		int n = arr[0].length;
+		int count = 0;
+		
+		for(int i=0;i<m;i++) {
+			for(int j = 0;j<n;j++) {
+				if(arr[i][j]==1) {
+					if(i ==0 || arr[i-1][j]== 0) {
+						count++;
+					}
+					if(i == m-1 || arr[i+1][j]==0) {
+						count++;
+					}
+					if( j == 0 || arr[i][j-1]==0) {
+						count++;
+					}
+					if(j == n-1 || arr[i][j+1]==0) {
+						count++;
+					}
+				}
+			}
+		}
+		return count;
     }
 }
+
+    
