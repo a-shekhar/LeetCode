@@ -22,16 +22,16 @@ class Solution {
             return null;
         }
 
-        if(root.val == val){
-            return root;
+        while(root != null){
+            if(root.val == val){
+                return root;
+            }
+            if(val < root.val){
+                root = root.left;
+            }else{
+                root = root.right;
+            }
         }
-        
-        left = searchBST(root.left, val);
-        if(left == null){
-           root = searchBST(root.right, val);
-        }else{
-            root = left;
-        }
-        return root;
+        return null;        
     }
 }
