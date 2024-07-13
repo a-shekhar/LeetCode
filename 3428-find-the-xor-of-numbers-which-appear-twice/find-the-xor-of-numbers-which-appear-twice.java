@@ -1,12 +1,10 @@
 class Solution {
-    public int duplicateNumbersXOR(int[] nums) {
-        List<Integer> list = new ArrayList<>();
+     public int duplicateNumbersXOR(int[] nums) {
+        int[] arr = new int[51];
         int xor = 0;
         for(int num : nums){
-            if(!list.contains(num)){
-                list.add(num);
-            }else{
-                xor ^= num;
+            if(++arr[num] % 2 == 0){
+                xor = xor ^ num;
             }
         }
         return xor;
