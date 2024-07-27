@@ -10,7 +10,6 @@ class Solution {
         int totalWeight = 0;
         int totalValue = 0;
         for(int[] boxType : boxTypes) {
-            System.out.println(Arrays.toString(boxType));
             if(totalWeight + boxType[0] <= truckSize){
                 totalValue += (boxType[0] * boxType[1]);
                 totalWeight += boxType[0];
