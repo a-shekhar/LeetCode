@@ -12,38 +12,42 @@
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-    queue<TreeNode*>que;
-	que.push(root);
-	vector<vector<int>>ans;
-
-   if(root == NULL){
-    return ans;
-   }
-
-	while(que.size()>0){
-
-
-		int len = que.size();
-		vector<int>res;
-
-       
-		while(len--){
-			TreeNode * node = que.front();
-			res.push_back(node->val);
-			que.pop();
-			if(node->left!=NULL){
-				que.push(node->left);
-			}
-			if(node->right!=NULL){
-				que.push(node->right);
-			}
-		}
-		ans.push_back(res);
-	}
-
-
-	reverse(ans.begin(),ans.end());
-	return ans;
-
+        if(root == NULL) return {};
+    
+    queue<pair<int, TreeNode*>> que;
+    map<int, vector<int>> mp;
+    
+    que.push({0, root});
+    mp[0].push_back(root->val);
+    
+    bft(root, que, mp);
+    
+    vector<vector<int>> ans;
+    
+    for(int i = mp.size()-1; i>=0; i--){
+        ans.push_back(mp[i]);
     }
+    return ans;
+    }
+
+    void bft(TreeNode* root, queue<pair<int, TreeNode*>>&que, map<int, vector<int>>& mp){
+    while(!que.empty()){
+        int level = que.front().first +1;
+        if(root->left != NULL){
+            que.push({level, root->left});
+            mp[level].push_back(root->left->val);
+        }
+        if(root->right != NULL){
+            que.push({level, root->right});
+            mp[level].push_back(root->right->val);
+        }
+        
+        que.pop();
+        
+        if(!que.empty()){
+            root = que.front().second;
+        }
+    }
+}
+
 };
