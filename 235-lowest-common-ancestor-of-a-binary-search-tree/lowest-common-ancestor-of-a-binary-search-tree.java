@@ -15,7 +15,7 @@ class Solution {
         }
         TreeNode curr = root;
         int val = root.val;
-        System.out.println(val);
+       
         if(val > p.val && val > q.val){
             return lowestCommonAncestor(root.left, p, q);
         }
