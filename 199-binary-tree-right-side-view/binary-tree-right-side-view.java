@@ -21,28 +21,28 @@ class Solution {
         }
        
         Queue<TreeNode> queue = new LinkedList<>();
-        List<Integer> level;
+        int currVal = 0;
         queue.offer(root);
         TreeNode popped;
         int size;
         while(!queue.isEmpty()){
-            level =  new ArrayList<>();
             size = queue.size();
             for(int i = 0; i < size; i++){
                 popped = queue.poll();
-                level.add(popped.val);
-                if(popped.right != null){
-                    queue.offer(popped.right);
-                }
+                currVal = popped.val;
 
                 if(popped.left != null){
                     queue.offer(popped.left);
                 }
 
+                if(popped.right != null){
+                    queue.offer(popped.right);
+                }
+                
             }
-            //if(level.size() > 0){
-                result.add(level.get(0));
-            //}
+            
+            result.add(currVal);
+            
         } 
 
         return result;
