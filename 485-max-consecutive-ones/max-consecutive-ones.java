@@ -3,9 +3,13 @@ class Solution {
         int maxOnes = Integer.MIN_VALUE;
         int ones = 0;
         for(int num: nums){
-            ones = (num == 1 ? ones + 1 : 0);
-            maxOnes = Math.max(maxOnes, ones);
+            if(num == 0){
+                maxOnes = Math.max(maxOnes, ones);
+                ones = 0;
+            }else{
+                ones++;
+            }
         }
-        return maxOnes;
+        return Math.max(maxOnes, ones);
     }
 }
