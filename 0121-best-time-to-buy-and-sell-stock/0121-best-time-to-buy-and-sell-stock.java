@@ -1,7 +1,7 @@
 class Solution {
     public int maxProfit(int[] prices) {
 
-        int maxProfit = Integer.MIN_VALUE;
+        int maxProfit = 0;
         int minPrice = prices[0];
         int profit;
 
@@ -11,6 +11,6 @@ class Solution {
             maxProfit = Math.max(maxProfit, profit);
         }
         
-        return maxProfit < 0 ? 0 : maxProfit;
+        return maxProfit;
     }
 }
