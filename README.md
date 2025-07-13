@@ -11,6 +11,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0001-two-sum](https://github.com/a-shekhar/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/a-shekhar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -63,4 +64,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
