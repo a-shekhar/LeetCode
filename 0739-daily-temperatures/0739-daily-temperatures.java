@@ -4,30 +4,17 @@ class Solution {
 
         Stack<Integer> stack = new Stack<>();
 
-        for(int i = temperatures.length - 1; i >=0; i--){
-            if(stack.isEmpty()){
-                result[i] = 0;
-                stack.push(i);
-                continue;
+          for (int i = temperatures.length - 1; i >= 0; i--) {
+            // Pop indices with temperatures <= current temperature
+            while (!stack.isEmpty() && temperatures[i] >= temperatures[stack.peek()]) {
+                stack.pop();
             }
 
-            if(temperatures[i] < temperatures[stack.peek()]){
-                result[i] = stack.peek() - i;
-               
-            }else{
-                while(!stack.isEmpty() && temperatures[i] >= temperatures[stack.peek()] ){
-                    stack.pop();
-                }
+            // If the stack is not empty, the top is the next warmer day
+            result[i] = stack.isEmpty() ? 0 : stack.peek() - i;
 
-                if(stack.isEmpty()){
-                    result[i] = 0;
-                }else{
-                    result[i] = stack.peek() - i;
-                }
-            }
-
+            // Push current index to stack
             stack.push(i);
-
         }
 
         return result;
