@@ -15,6 +15,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/a-shekhar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0003-longest-substring-without-repeating-characters](https://github.com/a-shekhar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,12 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a-shekhar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
