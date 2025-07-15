@@ -6,10 +6,7 @@ class Solution {
         for(String token : tokens){
                 switch (token) {
                     case "+":
-                        a = stack.pop();
-                        b = stack.pop();
-                        res = (b + a);
-                        stack.push(res);
+                        stack.push(stack.pop() + stack.pop());
                         break;
                     case "-":
                         a = stack.pop();
@@ -18,10 +15,7 @@ class Solution {
                         stack.push(res);
                         break;    
                     case "*":
-                        a = stack.pop();
-                        b = stack.pop();
-                        res = (b * a);
-                        stack.push(res);
+                        stack.push(stack.pop() * stack.pop());
                         break;
                     case "/":
                         a = stack.pop();
@@ -34,6 +28,6 @@ class Solution {
                         break;                        
                 }
         }
-        return stack.peek();
+        return stack.pop();
     }
 }
