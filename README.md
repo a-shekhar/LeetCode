@@ -76,6 +76,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -101,6 +102,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
@@ -114,4 +116,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
