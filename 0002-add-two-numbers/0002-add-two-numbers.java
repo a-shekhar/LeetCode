@@ -16,7 +16,7 @@ class Solution {
         ListNode temp;
         ListNode curr = res;
 
-        while(l1 != null || l2 != null){
+        while(l1 != null || l2 != null || carry != 0){
             val1 = (l1 == null ? 0 : l1.val);
             val2 = (l2 == null ? 0 : l2.val);
 
@@ -32,10 +32,6 @@ class Solution {
 
             l1 = (l1 != null ? l1.next : null);
             l2 = (l2 != null ? l2.next : null);
-        }
-
-        if(carry != 0){
-            curr.next = new ListNode(carry);
         }
 
         return res.next;
