@@ -14,6 +14,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/a-shekhar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/a-shekhar/LeetCode/tree/master/0213-house-robber-ii) |
@@ -90,6 +91,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/a-shekhar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/a-shekhar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/a-shekhar/LeetCode/tree/master/0322-coin-change) |
