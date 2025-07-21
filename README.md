@@ -10,6 +10,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/a-shekhar/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,4 +176,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/a-shekhar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
