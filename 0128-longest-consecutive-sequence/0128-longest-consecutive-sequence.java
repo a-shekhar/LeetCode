@@ -1,38 +1,28 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        Map<Integer, Boolean> visited = new HashMap<>();
+        Set<Integer> set = new HashSet<>();
         for(int num : nums){
-            visited.put(num, false);
+            set.add(num);
         }
 
         int longestConsecutiveSeq = 0;
         int consecutiveSeq = 0;
-        int next, prev ;
+        int currNum;
 
-        for(int num : nums){
+        for(int num : set){
+
             consecutiveSeq = 0;
-            if(visited.get(num) == true){
-                continue;
-            }
+            
+            if(!set.contains(num-1)){ // pick the lowest int
+                currNum = num;
+                consecutiveSeq = 1;
+                while(set.contains(currNum + 1)){
+                    consecutiveSeq++;
+                    currNum = currNum + 1;
+                }
 
-            consecutiveSeq++;
-            // check next items avialable 
-            next = num + 1;
-            while (visited.containsKey(next) && !visited.get(next)){
-                visited.put(next, true);
-                next++;
-                consecutiveSeq++;
+                longestConsecutiveSeq = Math.max(longestConsecutiveSeq, consecutiveSeq);
             }
-
-            // check prev items avialable 
-            prev = num - 1;
-            while (visited.containsKey(prev) && !visited.get(prev)){
-                visited.put(prev, true);
-                prev--;
-                consecutiveSeq++;
-            }
-
-            longestConsecutiveSeq = Math.max(longestConsecutiveSeq, consecutiveSeq);
         }
 
         return longestConsecutiveSeq;
