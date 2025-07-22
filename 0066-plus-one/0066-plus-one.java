@@ -1,19 +1,16 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        List<Integer>list = new ArrayList<>();
-        int j = digits.length-1;
-        int carry = 1;
-        int num = 0;
-        while(j >= 0){
-            num = digits[j] + carry;
-            carry = num / 10;
-            list.add(0, num % 10);
-            j--;
+        for(int i = digits.length-1; i >= 0; i--){
+            if(digits[i] < 9){
+                digits[i]++; // just increment by 1
+                return digits;
+            }
+            digits[i] = 0;
         }
-        if(carry == 1){
-            list.add(0, carry);
-        }
-        return list.stream().mapToInt(Integer::intValue).toArray();
-    }
 
+        // if we reach here means all were 9 and converted to 0
+        int[] nums = new int[digits.length + 1];
+        nums[0] = 1; // increment by 1
+        return nums;
+    }
 }
