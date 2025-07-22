@@ -13,6 +13,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/a-shekhar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -128,6 +129,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
