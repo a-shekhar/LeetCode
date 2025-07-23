@@ -49,6 +49,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0020-valid-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0198-house-robber](https://github.com/a-shekhar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/a-shekhar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/a-shekhar/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
