@@ -47,6 +47,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0020-valid-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
+| [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
