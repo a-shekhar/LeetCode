@@ -29,6 +29,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0739-daily-temperatures](https://github.com/a-shekhar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/a-shekhar/LeetCode/tree/master/0792-binary-search) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
