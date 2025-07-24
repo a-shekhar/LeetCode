@@ -25,6 +25,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/a-shekhar/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/a-shekhar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/a-shekhar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
