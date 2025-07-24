@@ -7,7 +7,7 @@ class Solution {
             }
 
             if(prefixToMatch.isEmpty()){
-                prefixToMatch = "";
+                return "";
             }
         }
 
