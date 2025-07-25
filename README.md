@@ -32,6 +32,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0739-daily-temperatures](https://github.com/a-shekhar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/a-shekhar/LeetCode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -220,6 +221,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Binary Search Tree
 |  |
