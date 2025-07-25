@@ -17,6 +17,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/a-shekhar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/a-shekhar/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -191,6 +192,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/a-shekhar/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
