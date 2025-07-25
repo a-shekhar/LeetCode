@@ -56,6 +56,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0020-valid-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/a-shekhar/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -151,6 +152,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0002-add-two-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/a-shekhar/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
@@ -193,6 +195,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/a-shekhar/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/a-shekhar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -225,6 +228,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
