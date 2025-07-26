@@ -12,6 +12,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0001-two-sum](https://github.com/a-shekhar/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/a-shekhar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/a-shekhar/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
@@ -115,6 +116,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/a-shekhar/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/a-shekhar/LeetCode/tree/master/0792-binary-search) |
