@@ -9,8 +9,8 @@ class Solution {
             builder.append(word2.charAt(i));
         }
 
-        builder.append(word1.substring(i, word1.length()));
-        builder.append(word2.substring(i, word2.length()));
+        builder.append(word1.substring(i));
+        builder.append(word2.substring(i));
         return builder.toString();
     }
 }
