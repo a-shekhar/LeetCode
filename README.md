@@ -119,6 +119,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0035-search-insert-position](https://github.com/a-shekhar/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/a-shekhar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/a-shekhar/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -246,4 +247,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/a-shekhar/LeetCode/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/a-shekhar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
