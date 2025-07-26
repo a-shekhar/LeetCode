@@ -61,6 +61,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
@@ -107,6 +108,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
