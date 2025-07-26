@@ -1,23 +1,22 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x == 0 || x == 1){
-            return x;
-        }
-
-        int start = 1;
-        int end = x;
-        int mid = 0;
-        while(start <= end){
-            mid = start + (end - start)/2;          
-            if(mid  * mid == x){
-                return mid;
-            }else if((long) mid * mid > (long) x){
-                end = mid - 1; 
-            }else{
-                start = mid + 1;
+        long low = 0;
+        long high = x;
+        long mid;
+        long n = x;
+        long res;
+        while(low <= high){
+            mid = low + ((high - low) / 2);
+            res = mid * mid;
+            if(res == n){
+                return (int) mid;
+            } else if(res > n){
+                high = mid - 1;
+            } else if(res < n){
+                low = mid + 1;
             }
         }
 
-        return Math.round(end);
+        return (int) high;
     }
 }
