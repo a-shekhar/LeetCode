@@ -6,7 +6,6 @@ class Solution {
             if(count == 0){
                 candidate = num;
             }
-            System.out.println(candidate);
             if(num != candidate){
                 count--;
             }else{
