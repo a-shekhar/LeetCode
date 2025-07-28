@@ -22,6 +22,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-shekhar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/a-shekhar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/a-shekhar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/a-shekhar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/a-shekhar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/a-shekhar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -72,11 +74,13 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/a-shekhar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -90,6 +94,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Quickselect
