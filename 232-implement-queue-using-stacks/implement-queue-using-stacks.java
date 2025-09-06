@@ -9,29 +9,29 @@ class MyQueue {
     }
     
     public void push(int x) {
-        while(!output.isEmpty()){
-            input.push(output.pop());
-        }
         input.push(x);
-        
     }
     
     public int pop() {
-        while(!input.isEmpty()){
-            output.push(input.pop());
-        }
+        shiftStacks();
         return output.isEmpty() ? - 1: output.pop();
     }
     
     public int peek() {
-        while(!input.isEmpty()){
-            output.push(input.pop());
-        }
+        shiftStacks();
         return output.isEmpty() ? - 1: output.peek();
     }
     
     public boolean empty() {
         return input.isEmpty() && output.isEmpty();
+    }
+
+    private void shiftStacks(){
+        if(output.isEmpty()){
+            while(!input.isEmpty()){
+                output.push(input.pop());
+            }
+        }
     }
 }
 
