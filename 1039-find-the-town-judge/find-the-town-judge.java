@@ -3,22 +3,20 @@ class Solution {
         if(n == 1){
             return 1;
         }
-        Set<Integer> set = new HashSet<>();
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int[] arr : trust) {
-            set.add(arr[0]);
-            map.put(arr[1], map.getOrDefault(arr[1], 0) + 1);
+        
+        int[] trustArray = new int[n+1]; // upto n
+        
+        for(int[] arr : trust){
+            trustArray[arr[0]]--; // decrease if someone is trusting
+            trustArray[arr[1]]++; // increase if someone is being trusted
         }
 
-        if (set.size() != n - 1) {
-            return -1;
-        }
-
-        for(int key : map.keySet()){
-            if(!set.contains(key) && map.get(key) == n-1){
-                return key;
+        for(int i = 0; i < trustArray.length; i++){
+            if(trustArray[i] == n - 1){
+                return i;
             }
         }
+
         return -1;
     }
 }
