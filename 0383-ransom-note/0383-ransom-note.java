@@ -1,17 +1,26 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-       List<Character> list = new ArrayList<>();
-       for(int i=0; i< magazine.length(); i++){
-           list.add(magazine.charAt(i));
-       }
+        int[] arr = new int[26];
+        if(magazine.length() < ransomNote.length()){
+            return false;
+        }
+        
+        for(int i = 0; i < ransomNote.length(); i++){
+           arr[ransomNote.charAt(i) - 'a']++;
+           arr[magazine.charAt(i) - 'a']--;
+        }
 
-       for(int i=0; i< ransomNote.length(); i++){
-           if(!list.contains(ransomNote.charAt(i))){
-               return false;
-           }else{
-               list.remove(Character.valueOf(ransomNote.charAt(i)));
-           }
-       }
-       return true;
+        for(int i = ransomNote.length(); i < magazine.length(); i++){
+           arr[magazine.charAt(i) - 'a']--;
+        }
+
+
+        for(int num : arr){
+            if(num > 0){
+                return false;
+            }
+        }
+
+        return true;
     }
 }
