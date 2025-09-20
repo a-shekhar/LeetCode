@@ -40,6 +40,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0739-daily-temperatures](https://github.com/a-shekhar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/a-shekhar/LeetCode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -62,6 +63,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
@@ -186,6 +188,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
+| [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 ## Math
 |  |
@@ -240,6 +243,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0019-remove-nth-node-from-end-of-list](https://github.com/a-shekhar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/a-shekhar/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
 |  |
@@ -307,5 +311,6 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
