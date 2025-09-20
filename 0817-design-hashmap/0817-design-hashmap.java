@@ -1,24 +1,100 @@
+class Node {
+
+    public int key;
+    public int val;
+    public Node next;
+
+    public Node(int key, int val) {
+        this.key = key;
+        this.val = val;
+    }
+}
+
 class MyHashMap {
 
-    int[] map;
+    private Node[] nodes;
 
     public MyHashMap() {
-        map = new int[1000001];
-        for(int i = 0; i < map.length; i++){
-            map[i] = -1;
+        nodes = new Node[1000];
+    }
+
+    public void put(int key, int value) {
+        Node newNode = new Node(key, value);
+        int index = calculateHash(key);
+        if (nodes[index] == null) {
+            nodes[index] = newNode;
+        } else {
+            Node curr = nodes[index];
+            Node prev = new Node(-1, -1);
+            prev.next = curr;
+            while (curr != null) {
+                if (curr.key == key) {
+                    curr.val = value;
+                    return;
+                }
+                prev = curr;
+                curr = curr.next;
+            }
+            // add if key not found
+            prev.next = newNode;
         }
     }
-    
-    public void put(int key, int value) {
-        map[key] = value;
-    }
-    
+
     public int get(int key) {
-        return map[key];
+        int index = calculateHash(key);
+        Node curr = nodes[index];
+        while (curr != null) {
+            if (curr.key == key) {
+                return curr.val;
+            }
+            curr = curr.next;
+        }
+        return -1;
+    }
+
+    public void remove(int key) {
+        int index = calculateHash(key);
+        Node curr = nodes[index];
+        if(curr == null){
+            return;
+        }
+
+         // remove head
+    if (curr.key == key) {
+        nodes[index] = curr.next;
+        return;
     }
     
-    public void remove(int key) {
-        map[key] = -1;
+        Node prev = new Node(-1, -1);
+        prev.next = curr;
+        boolean nodeFound = false;
+        while (curr != null) {
+            if (curr.key == key) {
+                nodeFound = true;
+                break;
+            }
+            prev = curr;
+            curr = curr.next;
+        }
+
+        if(!nodeFound){
+            return;
+        }
+
+        // if (curr.next == null) {
+        //     prev.next = null;
+        // } else {
+        //     prev.next = curr.next.next;
+        // }
+
+        prev.next = curr.next;
+
+        //nodes[index] = prev.next;
+    }
+    
+
+    private int calculateHash(int num) {
+        return num % 1000;
     }
 }
 
