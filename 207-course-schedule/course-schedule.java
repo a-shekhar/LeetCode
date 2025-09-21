@@ -9,9 +9,9 @@ class Solution {
         }
 
         for(int[] edge : prerequisites){
-            ArrayList<Integer> neighbors = neighborsList.get(edge[0]);
-            neighbors.add(edge[1]);
-            indegrees[edge[1]]++;
+            ArrayList<Integer> neighbors = neighborsList.get(edge[1]);
+            neighbors.add(edge[0]);
+            indegrees[edge[0]]++;
         }
 
         for(int i = 0;  i < numCourses; i++){
