@@ -218,6 +218,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0104-maximum-depth-of-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0104-maximum-depth-of-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
