@@ -14,28 +14,27 @@
  * }
  */
 class Solution {
-     public TreeNode insertIntoBST(TreeNode root, int val) {
-        TreeNode curr  = root;
-        TreeNode temp = new TreeNode(val);
-        if(curr == null){
-            root = temp;
+    public TreeNode insertIntoBST(TreeNode root, int val) {   
+        if(root == null){
+            return new TreeNode(val);
+        }
+        TreeNode curr = root;
+        findCeilNode(curr, val);
+        return curr;
+    }
+
+    private TreeNode findCeilNode(TreeNode root, int val){
+        if(root == null){
+            root =  new TreeNode(val);
             return root;
         }
-        while(true){
-            if(val  < curr.val){
-                if(curr.left == null){
-                    curr.left = temp;
-                   break;
-                }
-                curr = curr.left;
-            }else{
-                if(curr.right == null){
-                    curr.right = temp;
-                    break;
-                }
-                curr = curr.right;
-            }
+
+        if(root. val > val){
+            root.left = findCeilNode(root.left, val);
+        } else {
+            root.right = findCeilNode(root.right, val);
         }
+
         return root;
     }
 }
