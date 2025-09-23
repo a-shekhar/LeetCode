@@ -48,6 +48,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0326-power-of-three](https://github.com/a-shekhar/LeetCode/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
 |  |
 | ------- |
