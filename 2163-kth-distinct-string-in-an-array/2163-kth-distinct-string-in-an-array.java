@@ -1,20 +1,20 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        LinkedHashMap<String, Integer> map = new LinkedHashMap<>();
-        for(String str: arr){
-            map.putIfAbsent(str, 0);
-            map.put(str, map.get(str) + 1);
+        Map<String, Integer> map = new LinkedHashMap<>();
+        int count = 0;
+
+        for(String str : arr){
+            map.put(str, map.getOrDefault(str, 0) + 1);
         }
-        String ans = "";
-        for(Map.Entry<String, Integer> entry : map.entrySet()){
-            if(entry.getValue() == 1){
-                k--;
-            }
-            if(k == 0){
-                ans = entry.getKey();
-                break;
+
+        for(String key : map.keySet()){
+            if(map.get(key)  == 1){
+                count++;
+                if(count == k){
+                    return key;
+                }
             }
         }
-        return ans;
+        return "";
     }
 }
