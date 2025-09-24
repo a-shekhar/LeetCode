@@ -47,6 +47,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -68,6 +69,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
@@ -121,6 +124,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
