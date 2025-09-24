@@ -1,20 +1,15 @@
 class Solution {
     public int appendCharacters(String s, String t) {
-        if(s.equals(t)){
-            return 0;
-        }
-
-        int index = 0;
+         int i = 0;
+        int j = 0;
         int count = 0;
-
-        for(int i = 0; i < s.length() && index < t.length(); i++){
-            if(s.charAt(i) ==  t.charAt(index)){
-                index++;
+        while(i < s.length() && j < t.length()){
+            if(s.charAt(i) == t.charAt(j)){
                 count++;
+                j++;
             }
-            
+            i++;
         }
-
-        return t.length() - count;
+        return t.length() - count; 
     }
 }
