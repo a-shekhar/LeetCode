@@ -92,6 +92,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/a-shekhar/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
 |  |
 | ------- |
