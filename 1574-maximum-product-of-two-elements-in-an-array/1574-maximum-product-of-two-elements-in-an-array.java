@@ -1,7 +1,6 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        return (nums[n-1] - 1) * (nums[n-2] - 1);
+         return IntStream.range(0, nums.length).boxed()
+                .sorted((i, j) -> nums[j] - nums[i]).limit(2).reduce((i, j) -> ((nums[i] - 1) * (nums[j] -1))).get();
     }
 }
