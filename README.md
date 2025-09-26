@@ -221,6 +221,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/a-shekhar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/a-shekhar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
 | ------- |
