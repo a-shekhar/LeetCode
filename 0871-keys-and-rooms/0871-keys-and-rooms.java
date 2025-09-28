@@ -1,20 +1,24 @@
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-         int n = rooms.size();
-        Set<Integer> visited = new HashSet<>();
-        Deque<Integer> queue = new ArrayDeque<>();
-        int popped;
-        visited.add(0);
-        queue.offer(0);
-        while(!queue.isEmpty()){
-            popped = queue.poll();
-            for(int neighbor : rooms.get(popped)){
-                if(!visited.contains(neighbor)){
-                    visited.add(neighbor);
-                    queue.offer(neighbor);
-                }
-            }
-        }
-        return visited.size() == n;
+int n = rooms.size();
+       Deque<Integer> queue = new ArrayDeque<>();
+       boolean[] visited = new boolean[n];
+       int popped;
+       int seen = 1;
+       visited[0] = true;
+       queue.offer(0);
+       while(!queue.isEmpty()){
+           popped = queue.poll();
+           for(int neighbor : rooms.get(popped)){
+               if(!visited[neighbor]){
+                   visited[neighbor] = true;
+                   queue.offer(neighbor);
+                   if(++seen == n){
+                        return true; // early exit 
+                   }
+               }
+           }
+       }
+       return seen == n;
     }
 }
