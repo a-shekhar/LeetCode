@@ -8,12 +8,10 @@ class Solution {
         queue.offer(0);
         while(!queue.isEmpty()){
             popped = queue.poll();
-            visited.add(popped);
             for(int neighbor : rooms.get(popped)){
                 if(!visited.contains(neighbor)){
+                    visited.add(neighbor);
                     queue.offer(neighbor);
-                                        // System.out.println(visited);
-
                 }
             }
         }
