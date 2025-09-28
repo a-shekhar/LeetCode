@@ -237,6 +237,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -249,6 +250,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0210-course-schedule-ii](https://github.com/a-shekhar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/a-shekhar/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -260,6 +262,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
@@ -296,6 +299,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0210-course-schedule-ii](https://github.com/a-shekhar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Recursion
 |  |
