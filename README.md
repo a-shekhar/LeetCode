@@ -31,6 +31,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0217-contains-duplicate](https://github.com/a-shekhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/a-shekhar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/a-shekhar/LeetCode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/a-shekhar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/a-shekhar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/a-shekhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/a-shekhar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/a-shekhar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
@@ -107,6 +109,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/a-shekhar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/a-shekhar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -132,6 +135,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/a-shekhar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
