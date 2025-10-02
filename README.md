@@ -17,6 +17,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/a-shekhar/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/a-shekhar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/a-shekhar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -293,6 +294,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/a-shekhar/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/a-shekhar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
@@ -380,4 +382,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0207-course-schedule](https://github.com/a-shekhar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/a-shekhar/LeetCode/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
