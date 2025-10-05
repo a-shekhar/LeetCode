@@ -209,6 +209,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0094-binary-tree-inorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/a-shekhar/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/a-shekhar/LeetCode/tree/master/0739-daily-temperatures) |
@@ -221,6 +222,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 ## Math
@@ -394,4 +396,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0022-generate-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
