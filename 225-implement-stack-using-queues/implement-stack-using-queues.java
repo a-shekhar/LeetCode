@@ -1,43 +1,25 @@
 class MyStack {
 
-    Queue<Integer> pushedQueue;
-    Queue<Integer> poppedQueue;
+    Deque<Integer> queue;
 
     public MyStack() {
-        pushedQueue = new LinkedList<>();
-        poppedQueue = new LinkedList<>();
-
+        queue = new ArrayDeque<>();
     }
     
     public void push(int x) {
-        pushedQueue.offer(x);
+        queue.offer(x);
     }
-
+    
     public int pop() {
-        while(pushedQueue.size() > 1){
-            poppedQueue.offer(pushedQueue.poll());
-        }
-        int poppedItem =  pushedQueue.poll();
-        while(!poppedQueue.isEmpty()){
-            pushedQueue.offer(poppedQueue.poll());
-        }
-        return poppedItem;
+        return queue.pollLast();
     }
-
+    
     public int top() {
-        while(pushedQueue.size() > 1){
-            poppedQueue.offer(pushedQueue.poll());
-        }
-        int peekedItem = pushedQueue.peek();
-        poppedQueue.offer(pushedQueue.poll());
-        while(!poppedQueue.isEmpty()){
-            pushedQueue.offer(poppedQueue.poll());
-        }
-        return peekedItem;
+        return queue.peekLast();
     }
-
+    
     public boolean empty() {
-        return pushedQueue.isEmpty() && poppedQueue.isEmpty();
+        return queue.size() == 0;
     }
 }
 
