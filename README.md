@@ -95,6 +95,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/a-shekhar/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/a-shekhar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -255,6 +256,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0104-maximum-depth-of-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/a-shekhar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -281,6 +283,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0104-maximum-depth-of-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/a-shekhar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -321,6 +324,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0207-course-schedule](https://github.com/a-shekhar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/a-shekhar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/a-shekhar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -398,6 +402,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0022-generate-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/a-shekhar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Queue
