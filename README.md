@@ -303,6 +303,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0002-add-two-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/a-shekhar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/a-shekhar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/a-shekhar/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
@@ -342,6 +343,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/a-shekhar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/a-shekhar/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/a-shekhar/LeetCode/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/a-shekhar/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
