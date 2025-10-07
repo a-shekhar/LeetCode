@@ -164,6 +164,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0019-remove-nth-node-from-end-of-list](https://github.com/a-shekhar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/a-shekhar/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/a-shekhar/LeetCode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -305,6 +306,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0019-remove-nth-node-from-end-of-list](https://github.com/a-shekhar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/a-shekhar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/a-shekhar/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/a-shekhar/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
