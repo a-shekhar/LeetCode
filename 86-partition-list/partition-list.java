@@ -14,7 +14,7 @@ class Solution {
             return head;
         }
         ListNode head1 = new ListNode(-1);
-        ListNode head2 = null;
+        ListNode head2 = new ListNode(-1);
         ListNode tail1 = head1;
         ListNode tail2 = head2;
 
@@ -25,18 +25,14 @@ class Solution {
                 tail1.next = newNode;
                 tail1 = newNode; 
             } else {
-                if(head2 == null){
-                    head2 = newNode;
-                    tail2 = newNode;
-                }else{
                     tail2.next = newNode;
                     tail2 = newNode; 
                 }
-            }
+            
             curr = curr.next;
         }
         
-        tail1.next = head2;
+        tail1.next = head2.next;
         return head1.next;
     }
 }
