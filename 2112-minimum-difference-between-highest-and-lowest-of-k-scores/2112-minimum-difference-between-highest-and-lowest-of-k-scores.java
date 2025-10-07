@@ -1,20 +1,11 @@
 class Solution {
     public int minimumDifference(int[] nums, int k) {
-        if(nums.length <= 1){
-            return 0;
-        }
+        if (k == 1) return 0;           // picking one score → diff = 0
         Arrays.sort(nums);
-        int j = 0;
-        int i = 0;
         int minDiff = Integer.MAX_VALUE;
-        while(j < k - 1){
-            j++;
-        }
-
-        while(j < nums.length){
-            minDiff = Math.min(minDiff, nums[j] - nums[i]);
-            i++;
-            j++;
+        
+        for(int i = 0; i + k - 1 < nums.length; i++){
+            minDiff = Math.min(minDiff, nums[i+k-1] - nums[i]);
         }
         return minDiff;
     }
