@@ -134,6 +134,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -228,6 +229,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 ## Math
@@ -266,6 +268,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0404-sum-of-left-leaves](https://github.com/a-shekhar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Memoization
 |  |
 | ------- |
@@ -370,6 +374,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Simulation
 |  |
 | ------- |
@@ -427,4 +432,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
