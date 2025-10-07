@@ -20,16 +20,17 @@ class Solution {
 
         ListNode curr = head;
         while(curr != null){
-            ListNode newNode = new ListNode(curr.val);
+            ListNode next = curr.next;
+            curr.next = null; // remove the cycle  
             if(curr.val < x){
-                tail1.next = newNode;
-                tail1 = newNode; 
+                tail1.next = curr;
+                tail1 = curr; 
             } else {
-                    tail2.next = newNode;
-                    tail2 = newNode; 
+                    tail2.next = curr;
+                    tail2 = curr; 
                 }
             
-            curr = curr.next;
+            curr = next;
         }
         
         tail1.next = head2.next;
