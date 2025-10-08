@@ -10,35 +10,57 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head == null) {
+        
+        if(head == null){
             return null;
         }
-        int size = 0;
-        ListNode currentNode = head;
-        ListNode tail = new ListNode();
-        while(currentNode != null){
-            tail = currentNode;
-            currentNode = currentNode.next;
-            size++;
+        
+        ListNode curr = head;
+        int count = 0;
+
+        if(k == 0){
+            return head;
         }
-       
-        k = k % size;
-        //System.out.print(k);
-        int rotate = 0;
-        ListNode prevNode;
-        while (rotate < k) {
-            currentNode = head;
-            prevNode = new ListNode();
-            while(currentNode != tail) {
-                prevNode = currentNode;
-                currentNode = currentNode.next;
-            }
-            tail.next = head;
-            head = tail;
-            prevNode.next = null;
-            tail = prevNode;
-            rotate++;
+
+        while(curr != null){
+            count++;
+            curr = curr.next;
         }
-        return head;
+
+        k = k % count; // so we don't overdo it
+
+        
+
+        curr = head;
+        ListNode prev = curr;
+        
+        if(k == 0){
+            return head;
+        }
+
+        int i = 0;
+        while(i < count - k){
+            prev = curr;
+            curr = curr.next;
+            i++;
+        }
+        
+
+        //System.out.println(prev.data);
+        //System.out.println(curr.data);
+        ListNode newHead = curr;
+        
+        while(curr.next != null){
+            curr = curr.next;
+        }
+        
+        // break the link
+        prev.next = null;
+        
+        // join the new link
+        curr.next = head;
+        
+
+        return newHead;
     }
 }
