@@ -96,6 +96,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/a-shekhar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/a-shekhar/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/a-shekhar/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -215,6 +216,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/a-shekhar/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
