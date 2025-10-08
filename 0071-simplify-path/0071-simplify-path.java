@@ -6,26 +6,26 @@ class Solution {
         Deque<String> stack = new ArrayDeque<>();
 
         for(String str : paths){
-            if(!str.isBlank()){
-                if(str.equals("..")){
-                    if(!stack.isEmpty())
-                    stack.pop();
-                } else if(str.equals(".") || str.equals("..") || str.equals("/") || str.equals("//")){
-                    // just skip it
-                } else {
-                    stack.push(str);
-                }
+            if (str.isBlank() || str.equals(".")) {
+                // skip empty and current directory
+                continue;
+            }
+
+            if (str.equals("..")) {
+                if (!stack.isEmpty()) stack.pop(); // go one directory up
+            } else {
+                stack.push(str); // add valid folder name
             }
         }
 
-        System.out.println(stack);
-
-        while(!stack.isEmpty()){
-            builder.insert(0, stack.pop()).insert(0, "/");
+        Iterator<String> it = stack.descendingIterator(); // bottom to top
+        while(it.hasNext()){
+            builder.append(it.next());
+            if(it.hasNext()){
+                builder.append("/");
+            }
         }
 
-        if(builder.length() > 1)
-        builder.deleteCharAt(builder.length()-1);
         return builder.toString();
     }
 }
