@@ -1,35 +1,39 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int count = 0;
-        ArrayList<ArrayList<Integer>> neighborsList = new ArrayList<>();
-        Deque<Integer> queue = new ArrayDeque<>();
-        int[] indegrees = new int[numCourses];
-        for(int i = 0; i < numCourses; i++){
-            neighborsList.add(new ArrayList<>());
-        }
-
-        for(int[] edge : prerequisites){
-            ArrayList<Integer> neighbors = neighborsList.get(edge[1]);
-            neighbors.add(edge[0]);
-            indegrees[edge[0]]++;
-        }
+         ArrayList<ArrayList<Integer>> neighbors = new ArrayList<>();
 
         for(int i = 0;  i < numCourses; i++){
+            neighbors.add(new ArrayList<>());
+        }
+
+        int[] indegrees = new int[numCourses];
+        
+        for(int[] edge : prerequisites){
+            int u = edge[0];
+            int v = edge[1];
+            indegrees[u]++;
+            neighbors.get(v).add(u); // neighbors
+        }
+
+        Queue<Integer> queue = new LinkedList<>();
+        int count = 0;
+        
+        for(int i = 0; i < indegrees.length; i++){
             if(indegrees[i] == 0){
                 queue.offer(i);
             }
         }
 
         while(!queue.isEmpty()){
-            Integer polled = queue.poll();
+            int curr = queue.poll();
             count++;
-            for(int neighbor : neighborsList.get(polled)){
-                indegrees[neighbor]--;
-                if(indegrees[neighbor] == 0){
-                    queue.offer(neighbor);
+            for(int neigh : neighbors.get(curr)){
+                if(--indegrees[neigh] == 0){
+                    queue.offer(neigh);
                 }
             }
         }
-        return numCourses == count;
+
+        return count == numCourses;
     }
 }
