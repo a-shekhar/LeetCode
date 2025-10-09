@@ -5,10 +5,8 @@ class Solution {
         int[] result = new int[n];
 
         for(int i = n - 1; i >= 0; i--){
-            if(!stack.isEmpty()){
-                while(!stack.isEmpty() && temperatures[i] >= temperatures[stack.peek()]){
-                    stack.pop();
-                }
+            while(!stack.isEmpty() && temperatures[i] >= temperatures[stack.peek()]){
+                stack.pop();
             } 
 
             if(stack.isEmpty()){
@@ -16,7 +14,7 @@ class Solution {
             } else {
                 result[i] = stack.peek() - i;
             }
-            
+
             stack.push(i);
         }
         return result;
