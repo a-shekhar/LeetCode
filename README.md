@@ -51,6 +51,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +124,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0229-majority-element-ii](https://github.com/a-shekhar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
@@ -133,12 +135,14 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0191-number-of-1-bits](https://github.com/a-shekhar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -160,6 +164,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,6 +259,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0326-power-of-three](https://github.com/a-shekhar/LeetCode/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/a-shekhar/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -455,4 +461,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0200-number-of-islands](https://github.com/a-shekhar/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/a-shekhar/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
