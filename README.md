@@ -50,6 +50,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/a-shekhar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -196,6 +197,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/a-shekhar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/a-shekhar/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/a-shekhar/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
