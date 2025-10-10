@@ -1,21 +1,15 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] ans = new int[n+1];
-        ans[0] = 0;
-        for(int i = 1; i <= n; i++){
-            ans[i] = count(i);
-        }
-        return ans;
-    }
+        int[] dp = new int[n+1];
 
-    private int count(int num){
-        int count = 0;
-        while(num > 0){
-            if(num % 2 == 1){
-                count++;
+        for(int i = 1;  i <= n; i++){
+            int half =  i / 2;
+            if(i % 2 == 0){
+                dp[i] = dp[half];
+            } else {
+                dp[i] = dp[half] + 1;
             }
-            num /= 2;
         }
-        return count;
+        return dp;
     }
 }
