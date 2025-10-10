@@ -208,6 +208,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0198-house-robber](https://github.com/a-shekhar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/a-shekhar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/a-shekhar/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/a-shekhar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -346,6 +347,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0191-number-of-1-bits](https://github.com/a-shekhar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/a-shekhar/LeetCode/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/a-shekhar/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
