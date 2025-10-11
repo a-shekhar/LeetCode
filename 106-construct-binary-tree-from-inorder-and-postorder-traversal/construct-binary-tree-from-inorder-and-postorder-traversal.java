@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public static TreeNode buildTree(int inorder[], int preorder[]) {
+    public static TreeNode buildTree(int inorder[], int postorder[]) {
 
         Map<Integer, Integer> map = new HashMap<>(); //
 
@@ -23,7 +23,7 @@ class Solution {
         }
         
         
-        return createTree(preorder, 0, preorder.length - 1, inorder, 0, inorder.length - 1, map);
+        return createTree(postorder, 0, postorder.length - 1, inorder, 0, inorder.length - 1, map);
     }
 
     private static TreeNode createTree(int[] postorder, int postStart, int postEnd, int[] inorder, int inStart, int inEnd, Map<Integer, Integer> map) {
