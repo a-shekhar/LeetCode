@@ -1,25 +1,33 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int n = haystack.length();
-        int len = needle.length();
-        for(int i = 0; i < n; i++){
-            if(n - i < len){
-                return -1;
-            }
-
-            if(haystack.charAt(i)  == needle.charAt(0)){
-                int j = 0;
-                int k = i;
-                while(needle.charAt(j) == haystack.charAt(k) && j < len){
-                    
-                    if(j == len - 1){
-                        return i;
-                    }
-                    j++;
-                    k++;
-                }
-            }
+        if(needle.length() > haystack.length()){
+            return -1;
         }
-        return - 1;
+        int k = needle.length();
+        int i = 0;
+        int j = 0;
+        StringBuilder builder = new StringBuilder();
+        while(j < k){
+            builder.append(haystack.charAt(j));
+            j++;
+        }
+
+
+        while(j < haystack.length()){
+            if(builder.toString().equals(needle)){
+                return i;
+            }
+            builder = new StringBuilder(builder.substring(1));
+            builder.append(haystack.charAt(j));
+          //  System.out.println(builder);
+            i++;
+            j++;
+        }
+
+        if(builder.toString().equals(needle)){
+            return i;
+        }
+
+        return -1;
     }
 }
