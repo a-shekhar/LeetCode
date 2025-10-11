@@ -20,6 +20,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/a-shekhar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/a-shekhar/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/a-shekhar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/a-shekhar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/a-shekhar/LeetCode/tree/master/0217-contains-duplicate) |
@@ -187,6 +189,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/a-shekhar/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/a-shekhar/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/a-shekhar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0165-compare-version-numbers) |
