@@ -56,6 +56,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/a-shekhar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -434,6 +435,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/a-shekhar/LeetCode/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
@@ -499,6 +501,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0200-number-of-islands](https://github.com/a-shekhar/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/a-shekhar/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
+| [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 ## Geometry
 |  |
 | ------- |
