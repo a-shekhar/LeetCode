@@ -21,6 +21,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/a-shekhar/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/a-shekhar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -109,6 +110,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0058-length-of-last-word](https://github.com/a-shekhar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/a-shekhar/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/a-shekhar/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/a-shekhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/a-shekhar/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -382,6 +384,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/a-shekhar/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/a-shekhar/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/a-shekhar/LeetCode/tree/master/0101-symmetric-tree) |
@@ -488,6 +491,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0022-generate-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/a-shekhar/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/a-shekhar/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/a-shekhar/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/a-shekhar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -503,6 +507,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/a-shekhar/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/a-shekhar/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/a-shekhar/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
