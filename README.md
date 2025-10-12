@@ -16,6 +16,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0035-search-insert-position](https://github.com/a-shekhar/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/a-shekhar/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/a-shekhar/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -216,6 +217,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0022-generate-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/a-shekhar/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/a-shekhar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -416,6 +418,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/a-shekhar/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/a-shekhar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/a-shekhar/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
