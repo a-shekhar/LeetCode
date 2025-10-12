@@ -291,6 +291,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/a-shekhar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3830-find-closest-person](https://github.com/a-shekhar/LeetCode/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
 | ------- |
