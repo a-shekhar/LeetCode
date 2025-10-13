@@ -338,6 +338,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -358,6 +359,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -380,6 +382,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -434,6 +437,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
