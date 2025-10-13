@@ -13,6 +13,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/a-shekhar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/a-shekhar/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/a-shekhar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/a-shekhar/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/a-shekhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
@@ -217,6 +218,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/a-shekhar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/a-shekhar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/a-shekhar/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
