@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k">4068. Sum of Elements With Frequency Divisible by K</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k">Sum of Elements With Frequency Divisible by K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Return an integer denoting the <strong>sum</strong> of all elements in <code>nums</code> whose <strong><span data-keyword="frequency-array">frequency</span></strong> is divisible by <code>k</code>, or 0 if there are no such elements.</p>
 
