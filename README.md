@@ -80,6 +80,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/a-shekhar/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/a-shekhar/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -317,6 +318,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3676-smallest-number-with-all-set-bits](https://github.com/a-shekhar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/a-shekhar/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/a-shekhar/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |
 | ------- |
