@@ -11,8 +11,8 @@ class Solution {
     }
 
     private static void find(String digits, int index, StringBuilder str, List<String> result, String[] mapping) {
-        if(index >= digits.length()){
-            if(str.length() == digits.length())
+        if(index == digits.length()){
+            //if(str.length() == digits.length())
             result.add(str.toString());
             return;
         }
