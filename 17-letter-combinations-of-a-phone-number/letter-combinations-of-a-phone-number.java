@@ -26,7 +26,7 @@ class Solution {
 
             find(digits, index + 1, str, result, mapping);
             str.setLength(len);
-            find(digits, index + 1, str, result, mapping);
+            //find(digits, index + 1, str, result, mapping);
         }
 
     }
