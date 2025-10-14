@@ -22,7 +22,7 @@ class Solution {
         for(int i = index; i < candidates.length; i++){
             
             // if current is already greater than target no need to go further
-            if(candidates[i] > target){
+            if(candidates[i] > target - sum){
                 break;
             }
             
