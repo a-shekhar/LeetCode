@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/generate-tag-for-video-caption">3893. Generate Tag for Video Caption</a></h2><h3>Easy</h3><hr><p>You are given a string <code><font face="monospace">caption</font></code> representing the caption for a video.</p>
+<h2><a href="https://leetcode.com/problems/generate-tag-for-video-caption">Generate Tag for Video Caption</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code><font face="monospace">caption</font></code> representing the caption for a video.</p>
 
 <p>The following actions must be performed <strong>in order</strong> to generate a <strong>valid tag</strong> for the video:</p>
 
