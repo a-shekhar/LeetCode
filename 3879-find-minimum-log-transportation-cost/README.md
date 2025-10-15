@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-minimum-log-transportation-cost">3879. Find Minimum Log Transportation Cost</a></h2><h3>Easy</h3><hr><p>You are given integers <code>n</code>, <code>m</code>, and <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-minimum-log-transportation-cost">Find Minimum Log Transportation Cost</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given integers <code>n</code>, <code>m</code>, and <code>k</code>.</p>
 
 <p>There are two logs of lengths <code>n</code> and <code>m</code> units, which need to be transported in three trucks where each truck can carry one log with length <strong>at most</strong> <code>k</code> units.</p>
 
