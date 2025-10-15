@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-any-element-has-prime-frequency">3914. Check if Any Element Has Prime Frequency</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-if-any-element-has-prime-frequency">Check if Any Element Has Prime Frequency</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Return <code>true</code> if the frequency of any element of the array is <strong>prime</strong>, otherwise, return <code>false</code>.</p>
 
