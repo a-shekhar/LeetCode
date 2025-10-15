@@ -152,6 +152,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/a-shekhar/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/a-shekhar/LeetCode/tree/master/3636-check-balanced-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/a-shekhar/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Sorting
 |  |
 | ------- |
@@ -496,6 +497,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0682-baseball-game](https://github.com/a-shekhar/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3893-generate-tag-for-video-caption](https://github.com/a-shekhar/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Trie
 |  |
 | ------- |
