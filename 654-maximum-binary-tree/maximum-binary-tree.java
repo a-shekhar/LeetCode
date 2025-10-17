@@ -15,29 +15,30 @@
  */
 class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int i = 0;  i < nums.length; i++){
-            map.put(nums[i], i);
-        }
-        return construct(0, nums.length, nums, map);
+        return construct(0, nums.length, nums);
     }
    
 
-    public TreeNode construct(int start, int end, int[] nums, Map<Integer, Integer> map){
+    public TreeNode construct(int start, int end, int[] nums){
         if(start >= end){
             return null;
         }
 
         int maxVal = Integer.MIN_VALUE;
+        int index = -1;
         for(int i = start;  i < end; i++){
-            maxVal = Math.max(nums[i], maxVal);
+            if(nums[i] > maxVal){
+                maxVal = nums[i];
+                index = i;
+            }
         }
 
         TreeNode root = new TreeNode(maxVal);
-        int index = map.get(maxVal);
+    
 
-        root.left = construct(start, index, nums, map);
-        root.right = construct(index + 1, end , nums, map);
+        root.left = construct(start, index, nums);
+        root.right = construct(index + 1, end , nums);
         return  root;
     }
+   
 }
