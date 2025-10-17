@@ -15,13 +15,12 @@
  */
 class FindElements {
 
-    Queue<TreeNode> queue = new LinkedList<>();
-    TreeNode root;
-    int rootVal = 0;
-
+    
+    Set<Integer> set = new HashSet<>();
 
     public FindElements(TreeNode root) {
-        this.root = root;
+        int rootVal = 0;
+        Queue<TreeNode> queue = new LinkedList<>();
         root.val = 0;
         queue.offer(root);
         while(!queue.isEmpty()){
@@ -29,6 +28,7 @@ class FindElements {
             for(int i = 0; i < size; i++){
                 TreeNode curr = queue.poll();
                 rootVal = curr.val;
+                set.add(rootVal);
                 if(curr.left != null){
                     curr.left.val = (2 * rootVal) + 1;
                     queue.offer(curr.left);
@@ -40,24 +40,11 @@ class FindElements {
                 }
             }
         }
-                //System.out.println(root.toString());
-
+        //System.out.println(root.toString());
     }
     
     public boolean find(int target) {
-        return find(root, target); 
-    }
-
-    private boolean find(TreeNode root, int target) {
-        if(root == null){
-            return false;
-        }
-
-        if(root.val == target){
-            return true;
-        }
-
-        return find(root.left, target) || find(root.right, target);
+        return set.contains(target); 
     }
 }
 
