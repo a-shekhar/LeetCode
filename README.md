@@ -81,6 +81,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/a-shekhar/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -121,6 +122,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/a-shekhar/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -339,6 +341,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
+| [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -596,6 +599,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [1572-subrectangle-queries](https://github.com/a-shekhar/LeetCode/tree/master/1572-subrectangle-queries) |
+| [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Geometry
 |  |
 | ------- |
