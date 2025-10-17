@@ -15,9 +15,9 @@ class Solution {
             }
         }
 
-        n =  (int) Math.pow(n, 2);
+        n =  n * n;
         int totalSum = (n * (n + 1))/2;
-        System.out.println(totalSum);
+       // System.out.println(totalSum);
         ans[1] = totalSum - sum;
         return ans;
     }
