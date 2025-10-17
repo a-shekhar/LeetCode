@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-common-elements-between-two-arrays">3206. Find Common Elements Between Two Arrays</a></h2><h3>Easy</h3><hr><p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> of sizes <code>n</code> and <code>m</code>, respectively. Calculate the following values:</p>
+<h2><a href="https://leetcode.com/problems/find-common-elements-between-two-arrays">Find Common Elements Between Two Arrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> of sizes <code>n</code> and <code>m</code>, respectively. Calculate the following values:</p>
 
 <ul>
 	<li><code>answer1</code> : the number of indices <code>i</code> such that <code>nums1[i]</code> exists in <code>nums2</code>.</li>
