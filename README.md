@@ -80,6 +80,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/a-shekhar/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -118,6 +119,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/a-shekhar/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
