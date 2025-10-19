@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-tested-devices-after-test-operations">3220. Count Tested Devices After Test Operations</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>batteryPercentages</code> having length <code>n</code>, denoting the battery percentages of <code>n</code> <strong>0-indexed</strong> devices.</p>
+<h2><a href="https://leetcode.com/problems/count-tested-devices-after-test-operations">Count Tested Devices After Test Operations</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>batteryPercentages</code> having length <code>n</code>, denoting the battery percentages of <code>n</code> <strong>0-indexed</strong> devices.</p>
 
 <p>Your task is to test each device <code>i</code> <strong>in order</strong> from <code>0</code> to <code>n - 1</code>, by performing the following test operations:</p>
 
