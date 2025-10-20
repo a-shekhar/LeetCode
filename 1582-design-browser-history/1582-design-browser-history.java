@@ -5,25 +5,24 @@ class DoublyLinkedList{
 
     public DoublyLinkedList(String val){
         this.val = val;
-        this.prev = null;
-        this.next = null;
     }
 }
 
 class BrowserHistory {
 
-    int count = 0;
     private DoublyLinkedList head;
     private DoublyLinkedList curr;
 
     public BrowserHistory(String homepage) {
         head = new DoublyLinkedList(homepage);
         curr = head;
-        count++;
     }
     
     public void visit(String url) {
         DoublyLinkedList newNode = new DoublyLinkedList(url);
+        //clear
+        curr.next = null;
+        
         curr.next = newNode;
         newNode.prev = curr;
         curr = newNode;
