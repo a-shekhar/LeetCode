@@ -651,4 +651,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/a-shekhar/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
