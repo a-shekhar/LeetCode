@@ -78,6 +78,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1572-subrectangle-queries](https://github.com/a-shekhar/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -189,6 +190,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
