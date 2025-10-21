@@ -215,6 +215,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/a-shekhar/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -426,6 +427,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0463-island-perimeter](https://github.com/a-shekhar/LeetCode/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/a-shekhar/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -513,6 +515,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0572-subtree-of-another-tree](https://github.com/a-shekhar/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/a-shekhar/LeetCode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -603,6 +606,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0207-course-schedule](https://github.com/a-shekhar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/a-shekhar/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/a-shekhar/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -664,4 +668,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0177-nth-highest-salary](https://github.com/a-shekhar/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0608-tree-node](https://github.com/a-shekhar/LeetCode/tree/master/0608-tree-node) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/a-shekhar/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
