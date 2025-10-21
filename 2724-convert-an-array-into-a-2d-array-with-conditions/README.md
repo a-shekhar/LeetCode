@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions">2724. Convert an Array Into a 2D Array With Conditions</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. You need to create a 2D array from <code>nums</code> satisfying the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions">Convert an Array Into a 2D Array With Conditions</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>. You need to create a 2D array from <code>nums</code> satisfying the following conditions:</p>
 
 <ul>
 	<li>The 2D array should contain <strong>only</strong> the elements of the array <code>nums</code>.</li>
