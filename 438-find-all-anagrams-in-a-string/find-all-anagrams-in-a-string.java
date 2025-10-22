@@ -2,55 +2,36 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) { 
 
         List<Integer> indexes = new ArrayList<>();
+        int pLen = p.length();
+        int sLen = s.length();
 
-        if(p.length() > s.length()){
+        if(pLen > sLen){
             return indexes;
         }
-
-        int[] freq = new int[26];
-        for(int i = 0; i < p.length(); i++){
-            freq[p.charAt(i) - 'a']++;
-        }
-
-        StringBuilder pBuilder = new StringBuilder();
-        for(int num : freq){
-            pBuilder.append(num).append("#");
-        }
-
-      
+        
+        int[] pCount = new int[26];
+        int[] sCount = new int[26];
 
         int i = 0, j = 0;
-        StringBuilder sBuilder = new StringBuilder();
 
 
-        freq = new int[26];
-        while(j < p.length()){
-            freq[s.charAt(j) - 'a']++;
+        while(j < pLen){
+            pCount[p.charAt(j) - 'a']++;
+            sCount[s.charAt(j) - 'a']++;
             j++;
         }
 
-        p = pBuilder.toString();
-       // System.out.println(p);
 
-
-        while(j <= s.length()){
-            sBuilder = new StringBuilder();
-            for(int num : freq){
-                sBuilder.append(num).append("#");
-            }
-
-
-                //    System.out.println(sBuilder);
-
-            if(sBuilder.toString().equals(p)){
+        while(j <= sLen){
+            
+            if(Arrays.equals(pCount, sCount)){
                 indexes.add(i);
             }
 
-            if(j >= s.length()){
-                break;
-            }
-            freq[s.charAt(i) - 'a']--;
-            freq[s.charAt(j) - 'a']++;
+            if(j >= sLen) break;
+
+            sCount[s.charAt(i) - 'a']--;
+            sCount[s.charAt(j) - 'a']++;
             i++;
             j++;
         }
