@@ -1,18 +1,11 @@
 class Solution {
-     private int setCount(int count, char[] chars, int index){
-        if(count > 1 && count < 10){
-            chars[++index] = (char) ('0' + count);
+     private int setCount(int count, char[] chars, int index){ 
+        if(count <= 1){
+            return index;
         }
-        else if(count >= 10){
-            StringBuilder builder = new StringBuilder();
-            while(count > 0){
-                builder.append(count % 10);
-                count /= 10;
-            }
-
-            for(int j = builder.length() - 1;  j >=0 ; j--){
-                chars[++index] = builder.charAt(j);
-            }
+        String strVal = String.valueOf(count);
+        for(int i = 0; i < strVal.length(); i++){
+            chars[++index] = strVal.charAt(i);
         }
         return index;
     }
