@@ -1,6 +1,8 @@
 class Solution {
 
     Map<Integer, List<Integer>> map = new HashMap<>();
+    private final Random rand = new Random();
+
     public Solution(int[] nums) {
         for(int i = 0; i < nums.length; i++){
             map.putIfAbsent(nums[i], new ArrayList<>());
@@ -9,10 +11,11 @@ class Solution {
     }
     
     public int pick(int target) {
-        int n = map.get(target).size() - 1;
-        int randomInt = (int)(Math.random() * (n - 0 + 1)) + 0;
+        List<Integer> list = map.get(target);
 
-        return map.get(target).get(randomInt);
+        int randomInt = rand.nextInt(list.size());
+
+        return list.get(randomInt);
     }
 }
 
