@@ -123,6 +123,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
+| [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/a-shekhar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
@@ -364,6 +365,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/a-shekhar/LeetCode/tree/master/0326-power-of-three) |
+| [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
 | [0795-k-th-symbol-in-grammar](https://github.com/a-shekhar/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -689,4 +691,12 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/a-shekhar/LeetCode/tree/master/0744-network-delay-time) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
