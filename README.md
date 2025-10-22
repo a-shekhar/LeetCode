@@ -485,6 +485,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0061-rotate-list](https://github.com/a-shekhar/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/a-shekhar/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/a-shekhar/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/a-shekhar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
