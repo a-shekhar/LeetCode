@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/compute-decimal-representation">4039. Compute Decimal Representation</a></h2><h3>Easy</h3><hr><p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/compute-decimal-representation">Compute Decimal Representation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
 
 <p>A positive integer is a <strong>base-10 component</strong> if it is the product of a single digit from 1 to 9 and a non-negative power of 10. For example, 500, 30, and 7 are <strong>base-10 components</strong>, while 537, 102, and 11 are not.</p>
 
