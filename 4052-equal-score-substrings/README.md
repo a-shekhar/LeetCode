@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/equal-score-substrings">4052. Equal Score Substrings</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/equal-score-substrings">Equal Score Substrings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>The <strong>score</strong> of a string is the sum of the positions of its characters in the alphabet, where <code>&#39;a&#39; = 1</code>, <code>&#39;b&#39; = 2</code>, ..., <code>&#39;z&#39; = 26</code>.</p>
 
