@@ -183,6 +183,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3797-design-spreadsheet](https://github.com/a-shekhar/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3893-generate-tag-for-video-caption](https://github.com/a-shekhar/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [4052-equal-score-substrings](https://github.com/a-shekhar/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/a-shekhar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/a-shekhar/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [4052-equal-score-substrings](https://github.com/a-shekhar/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Two Pointers
 |  |
 | ------- |
