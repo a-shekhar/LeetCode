@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank">1817. Calculate Money in Leetcode Bank</a></h2><h3>Easy</h3><hr><p>Hercy wants to save money for his first car. He puts money in the Leetcode&nbsp;bank <strong>every day</strong>.</p>
+<h2><a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank">Calculate Money in Leetcode Bank</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Hercy wants to save money for his first car. He puts money in the Leetcode&nbsp;bank <strong>every day</strong>.</p>
 
 <p>He starts by putting in <code>$1</code> on Monday, the first day. Every day from Tuesday to Sunday, he will put in <code>$1</code> more than the day before. On every subsequent Monday, he will put in <code>$1</code> more than the <strong>previous Monday</strong>.<span style="display: none;"> </span></p>
 
