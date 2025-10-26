@@ -22,15 +22,13 @@ class Solution {
                 price += x;
                 pq1.poll();
                 if(i <= j){
-                    pq1.offer(costs[i]);
-                    i++;
+                    pq1.offer(costs[i++]);
                 }
             } else {
                 price += y;
                 pq2.poll();
                 if(i <= j){
-                    pq2.offer(costs[j]);
-                    j--;
+                    pq2.offer(costs[j--]);
                 }
             }
             k--;
