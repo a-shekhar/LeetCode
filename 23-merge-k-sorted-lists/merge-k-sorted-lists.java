@@ -12,10 +12,8 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<ListNode> pq = new PriorityQueue<>(Comparator.comparing(a -> a.val));
         for(ListNode list : lists){
-            ListNode curr = list;
-            while(curr != null){
-                pq.offer(curr);
-                curr = curr.next;
+            if(list != null){
+                pq.offer(list);
             }
         }
 
@@ -23,9 +21,11 @@ class Solution {
         ListNode tail = dummy;
         while(!pq.isEmpty()){
             ListNode temp = pq.poll();
-            temp.next = null;
             tail.next = temp;
             tail = tail.next;
+            if(temp.next != null){
+                pq.offer(temp.next);
+            }
         }
 
         return dummy.next;
