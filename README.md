@@ -139,6 +139,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
+| [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -233,6 +234,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
@@ -368,6 +370,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1572-subrectangle-queries](https://github.com/a-shekhar/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
+| [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3797-design-spreadsheet](https://github.com/a-shekhar/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
@@ -732,4 +735,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/a-shekhar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
