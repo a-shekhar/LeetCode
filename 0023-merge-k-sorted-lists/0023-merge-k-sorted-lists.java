@@ -10,11 +10,11 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Comparator.comparing(a -> a));
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(Comparator.comparing(a -> a.val));
         for(ListNode list : lists){
             ListNode curr = list;
             while(curr != null){
-                pq.offer(curr.val);
+                pq.offer(curr);
                 curr = curr.next;
             }
         }
@@ -22,8 +22,9 @@ class Solution {
         ListNode dummy = new ListNode();
         ListNode tail = dummy;
         while(!pq.isEmpty()){
-            ListNode newNode = new ListNode(pq.poll());
-            tail.next = newNode;
+            ListNode temp = pq.poll();
+            temp.next = null;
+            tail.next = temp;
             tail = tail.next;
         }
 
