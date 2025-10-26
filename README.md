@@ -86,6 +86,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -235,6 +236,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
@@ -289,6 +291,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0443-string-compression](https://github.com/a-shekhar/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/a-shekhar/LeetCode/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -609,6 +612,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/a-shekhar/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3533-snake-in-matrix](https://github.com/a-shekhar/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
