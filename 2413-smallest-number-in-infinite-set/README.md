@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-number-in-infinite-set">2413. Smallest Number in Infinite Set</a></h2><h3>Medium</h3><hr><p>You have a set which contains all positive integers <code>[1, 2, 3, 4, 5, ...]</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-number-in-infinite-set">Smallest Number in Infinite Set</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You have a set which contains all positive integers <code>[1, 2, 3, 4, 5, ...]</code>.</p>
 
 <p>Implement the <code>SmallestInfiniteSet</code> class:</p>
 
