@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-zeros-in-decimal-representation">4051. Remove Zeros in Decimal Representation</a></h2><h3>Easy</h3><hr><p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/remove-zeros-in-decimal-representation">Remove Zeros in Decimal Representation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
 
 <p>Return the integer obtained by removing all zeros from the decimal representation of <code>n</code>.</p>
 
