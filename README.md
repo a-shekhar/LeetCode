@@ -60,6 +60,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0463-island-perimeter](https://github.com/a-shekhar/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/a-shekhar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/a-shekhar/LeetCode/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/a-shekhar/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/a-shekhar/LeetCode/tree/master/0695-max-area-of-island) |
@@ -600,6 +601,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0011-container-with-most-water](https://github.com/a-shekhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/a-shekhar/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/a-shekhar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/a-shekhar/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/a-shekhar/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
