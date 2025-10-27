@@ -93,6 +93,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3164-last-visited-integers](https://github.com/a-shekhar/LeetCode/tree/master/3164-last-visited-integers) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/a-shekhar/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/a-shekhar/LeetCode/tree/master/3221-find-the-peaks) |
@@ -627,6 +628,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3164-last-visited-integers](https://github.com/a-shekhar/LeetCode/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/a-shekhar/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3533-snake-in-matrix](https://github.com/a-shekhar/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
