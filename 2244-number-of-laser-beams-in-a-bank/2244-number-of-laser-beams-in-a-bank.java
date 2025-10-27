@@ -1,24 +1,19 @@
 class Solution {
     public int numberOfBeams(String[] bank) {
-        List<Integer> beams = new ArrayList<>();
+        int prev = 0;
+        int lasers = 0;
         for(String b : bank){
-            int count = 0;
+            int ones = 0;
             for(int i = 0; i < b.length(); i++){
                 if(b.charAt(i) == '1'){
-                    count++;
+                    ones++;
                 }
             }
 
-            if(count > 0){
-                beams.add(count);
+            if(ones > 0){
+                lasers += ones * prev;
+                prev = ones;
             }
-        }
-
-        int lasers = 0;
-        int i = 0;
-        while(i < beams.size() - 1){
-            lasers += beams.get(i) * beams.get(i+1);
-            i++;
         }
 
         return lasers;
