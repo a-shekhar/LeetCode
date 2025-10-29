@@ -351,6 +351,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0094-binary-tree-inorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/a-shekhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/a-shekhar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/a-shekhar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -369,6 +370,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/a-shekhar/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/a-shekhar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/a-shekhar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/a-shekhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -433,6 +435,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/a-shekhar/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/a-shekhar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -495,6 +498,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/a-shekhar/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/a-shekhar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/a-shekhar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -615,6 +619,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/a-shekhar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-shekhar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -761,4 +766,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/a-shekhar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
