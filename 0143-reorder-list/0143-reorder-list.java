@@ -45,9 +45,5 @@ class Solution {
             first = nextNode1;
             second = nextNode2;
         }
-
-        if(second != null){
-            first.next = second;
-        }
     }
 }
