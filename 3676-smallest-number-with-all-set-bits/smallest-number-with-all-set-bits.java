@@ -1,22 +1,22 @@
 class Solution {
-    public int smallestNumber(int n) {
-        boolean isAllSet;
-        int num;
-        for(int i = n;  i < Integer.MAX_VALUE; i++){
-            isAllSet = true;
-            num = i;
+     public int smallestNumber(int n) {
+        int num = n;
+        boolean isBitSet;
+
+        while (true) { 
+            isBitSet = true;
+            num = n;
             while(num > 0){
-                if(num % 2 == 0){
-                    isAllSet = false;
+                if(num%2 == 0) {
+                    isBitSet = false;
+                    n++;
                     break;
-                }
+                } 
                 num /= 2;
             }
-
-            if(isAllSet){
-                return i;
-            }
+            if(isBitSet) break;
         }
-        return -1;
+        
+        return n;
     }
 }
