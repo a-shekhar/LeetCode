@@ -13,50 +13,41 @@ class Solution {
         if(head.next == null) return;
         ListNode slow = head;
         ListNode fast = head;
+        ListNode prev = null;
         while(fast != null && fast.next != null){
+            prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        fast = head;
-        while(fast.next != slow){
-            fast = fast.next;
-        }
-
-        fast.next = null;
+        prev.next = null; // split into 2 halves 
 
         // reveres the linked list 
-        ListNode prev = null;
+        ListNode prevNode = null;
         ListNode  curr = slow;
         while(curr != null){
             ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
+            curr.next = prevNode;
+            prevNode = curr;
             curr = temp;
         }
 
-        // while(head != null) {
-        //     System.out.println(head.val);
-        //     head = head.next;
-        // }
-
-        // while(prev != null) {
-        //     System.out.println(prev.val);
-        //     prev = prev.next;
-        // }
-
-         curr = head;
-        while(curr.next != null && prev != null){
-            ListNode nextNode  = curr.next;
-            ListNode prevHead = prev.next;
-            curr.next = prev;
-            prev.next = nextNode;
-            prev = prevHead;
-            curr = nextNode;
+        
+        // merge
+        ListNode first = head;
+        ListNode second = prevNode;
+        while(first != null && second != null){
+            ListNode nextNode1  = first.next;
+            ListNode nextNode2 = second.next;
+            first.next = second;
+            if(nextNode1 == null) break;
+            second.next = nextNode1;
+            first = nextNode1;
+            second = nextNode2;
         }
 
-        if(prev != null){
-            curr.next = prev;
+        if(second != null){
+            first.next = second;
         }
     }
 }
