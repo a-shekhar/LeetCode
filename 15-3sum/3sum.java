@@ -4,7 +4,14 @@ class Solution {
         Arrays.sort(nums);
 
         for(int i = 0; i < nums.length - 2; i++){
+           // skip duplicate values
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+            // no need to check if only first element is greater than 0
+            if(nums[i] > 0) continue;
+
             int num1 = nums[i];
+
             int left = i + 1;
             int right = nums.length - 1;
             while(left < right){
