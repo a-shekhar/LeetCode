@@ -8,7 +8,7 @@ class Solution {
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             // no need to check if only first element is greater than 0
-            if(nums[i] > 0) continue;
+            if(nums[i] > 0) break;
 
             int num1 = nums[i];
 
