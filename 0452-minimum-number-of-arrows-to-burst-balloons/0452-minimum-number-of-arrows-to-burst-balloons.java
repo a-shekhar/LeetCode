@@ -4,21 +4,21 @@ class Solution {
         int minEnd = points[0][1];
         int n = points.length - 1;
 
-        int count = 0;
+        int count = 1; // start with 1 
         int i = 1;
         while(i <= n){
             int startCurr = points[i][0];
             if(minEnd >= startCurr){
-                minEnd = Math.min(minEnd, points[i][1]);
-                i++;
+                // already sorted
+                //minEnd = Math.min(minEnd, points[i][1]);
             } else {
                 count++;
                 minEnd =  points[i][1];
-                i++;
             }
+            i++;
 
         }
-        // + 1 for last left 
-        return count + 1;
+    
+        return count ;
     }
 }
