@@ -398,6 +398,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/a-shekhar/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/a-shekhar/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
