@@ -1,19 +1,27 @@
 class Solution {
     public int reverse(int x) {
-         if(x == 0) return 0;
-        long num = 0;
-        boolean isNeg = false;
-        if(x < 0) {
-            x = -1 * x;
-            isNeg = true;
+        int maxInt = ((int) Math.pow(2, 31) -1)/10;
+        int minInt = ((int) Math.pow(-2, 31))/10;
+        System.out.println(maxInt);
+        int reverse = 0;
+        int rem = 0;
+        boolean isNegative =  x < 0 ? true : false;
+        if(isNegative){
+            x *= -1;
         }
         while(x > 0){
-            int rem = x % 10;
-            num = (num * 10) + rem;
-            if(num < Math.pow(-2, 31)) return 0;
-            if(num > (Math.pow(2, 31) - 1)) return 0;
-            x /= 10;
+            rem = x % 10;
+           
+            if(reverse > maxInt || reverse < minInt){
+                return 0;
+            }
+            reverse = (reverse * 10) + rem;
+           
+            x = x / 10;
         }
-        return isNeg ? -1 * (int) num : (int) num;
+        if(isNegative){
+            reverse *= -1;
+        }
+        return reverse; 
     }
 }
