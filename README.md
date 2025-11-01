@@ -477,6 +477,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -504,6 +505,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -537,6 +539,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -611,6 +614,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
