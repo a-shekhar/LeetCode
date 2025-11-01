@@ -15,25 +15,23 @@
  */
 class Solution {
     public int goodNodes(TreeNode root) {
-        int maxValue = Integer.MIN_VALUE;
-        List<Integer> list = new ArrayList<>();
-        calculateGoodNodes(root, maxValue, list);
-        return list.size();
+        return calculateGoodNodes(root, Integer.MIN_VALUE);
     }
 
-    private void  calculateGoodNodes(TreeNode root, int maxValue, List<Integer> list) {
+    private int calculateGoodNodes(TreeNode root, int maxValue) {
         if(root == null){
-            return;
+            return 0;
         }
         int rootVal = root.val;
+        int count = 0;
         if(rootVal >= maxValue){
-            list.add(rootVal);
+            count = 1;
         }
 
         maxValue = Math.max(rootVal, maxValue);
-
-        calculateGoodNodes(root.left, maxValue, list);
-        calculateGoodNodes(root.right, maxValue, list);
+        count += calculateGoodNodes(root.left, maxValue);
+        count += calculateGoodNodes(root.right, maxValue);
+        return count;
     }
 
 }
