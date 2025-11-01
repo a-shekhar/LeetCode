@@ -337,6 +337,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0022-generate-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/a-shekhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/a-shekhar/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/a-shekhar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/a-shekhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-shekhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/a-shekhar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -406,6 +407,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0002-add-two-numbers](https://github.com/a-shekhar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/a-shekhar/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/a-shekhar/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/a-shekhar/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/a-shekhar/LeetCode/tree/master/0069-sqrtx) |
@@ -775,6 +777,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/a-shekhar/LeetCode/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Doubly-Linked List
 |  |
