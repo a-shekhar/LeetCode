@@ -3,6 +3,7 @@ class RandomizedSet {
     
     Map<Integer, Integer> map;
     List<Integer> list;
+    Random rand = new Random();
 
    public RandomizedSet() {
         map = new HashMap<>();
@@ -35,7 +36,6 @@ class RandomizedSet {
         int index = map.get(val);
         int temp = list.get(size-1);
         list.set(index, temp);
-        list.set(size-1, val);
         list.remove(size-1);
         map.remove(val);
         map.put(temp, index);
@@ -43,7 +43,6 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        Random rand = new Random();
         int size = list.size();
         int index = rand.nextInt(0, size);
         return list.get(index);
