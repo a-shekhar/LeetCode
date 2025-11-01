@@ -60,6 +60,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0287-find-the-duplicate-number](https://github.com/a-shekhar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/a-shekhar/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/a-shekhar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/a-shekhar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/a-shekhar/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/a-shekhar/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -137,6 +138,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0229-majority-element-ii](https://github.com/a-shekhar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/a-shekhar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -388,6 +390,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0208-implement-trie-prefix-tree](https://github.com/a-shekhar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/a-shekhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/a-shekhar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/a-shekhar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
@@ -414,6 +417,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0202-happy-number](https://github.com/a-shekhar/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/a-shekhar/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/a-shekhar/LeetCode/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/a-shekhar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
 | [0795-k-th-symbol-in-grammar](https://github.com/a-shekhar/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -782,6 +786,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/a-shekhar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/a-shekhar/LeetCode/tree/master/0398-random-pick-index) |
 ## Merge Sort
 |  |
