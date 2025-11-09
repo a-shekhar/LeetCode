@@ -441,6 +441,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/a-shekhar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/a-shekhar/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/a-shekhar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -685,6 +686,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/a-shekhar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3164-last-visited-integers](https://github.com/a-shekhar/LeetCode/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/a-shekhar/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
