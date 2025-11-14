@@ -212,6 +212,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3797-design-spreadsheet](https://github.com/a-shekhar/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3893-generate-tag-for-video-caption](https://github.com/a-shekhar/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [3931-process-string-with-special-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [4052-equal-score-substrings](https://github.com/a-shekhar/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Sorting
 |  |
@@ -696,6 +697,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a-shekhar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/a-shekhar/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [3931-process-string-with-special-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
