@@ -456,6 +456,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/a-shekhar/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/a-shekhar/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/a-shekhar/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/a-shekhar/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4039-compute-decimal-representation](https://github.com/a-shekhar/LeetCode/tree/master/4039-compute-decimal-representation) |
 ## Tree
 |  |
