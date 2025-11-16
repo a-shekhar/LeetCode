@@ -124,6 +124,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [4039-compute-decimal-representation](https://github.com/a-shekhar/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/a-shekhar/LeetCode/tree/master/4107-find-missing-elements) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/a-shekhar/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/a-shekhar/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [4008-restore-finishing-order](https://github.com/a-shekhar/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/a-shekhar/LeetCode/tree/master/4107-find-missing-elements) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/a-shekhar/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
