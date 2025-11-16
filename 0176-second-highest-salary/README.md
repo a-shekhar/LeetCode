@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/second-highest-salary/">176. Second Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/second-highest-salary">176. Second Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
 
 <pre>
 +-------------+------+
@@ -13,7 +13,7 @@ Each row of this table contains information about the salary of an employee.
 
 <p>&nbsp;</p>
 
-<p>Write a solution to find&nbsp;the second highest salary from the <code>Employee</code> table. If there is no second highest salary,&nbsp;return&nbsp;<code>null (return&nbsp;None in Pandas)</code>.</p>
+<p>Write a solution to find&nbsp;the second highest <strong>distinct</strong> salary from the <code>Employee</code> table. If there is no second highest salary,&nbsp;return&nbsp;<code>null (return&nbsp;None in Pandas)</code>.</p>
 
 <p>The result format is in the following example.</p>
 
