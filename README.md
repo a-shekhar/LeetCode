@@ -816,6 +816,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/a-shekhar/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/a-shekhar/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0608-tree-node](https://github.com/a-shekhar/LeetCode/tree/master/0608-tree-node) |
 ## Shortest Path
