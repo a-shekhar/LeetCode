@@ -89,6 +89,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1331-path-with-maximum-gold](https://github.com/a-shekhar/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/a-shekhar/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1572-subrectangle-queries](https://github.com/a-shekhar/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
