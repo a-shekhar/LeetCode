@@ -1,22 +1,25 @@
 class Solution {
     public boolean kLengthApart(int[] nums, int k) {
-        int index = -1;
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] == 1){
-                index =  i;
+        int i = 0;
+        int prev = -1;
+        while(i < nums.length){
+            if(nums[i] == 1) {
+                prev = i;
+                i++;
                 break;
             }
+            i++;
         }
-        
-        for(int i = index + 1; i < nums.length; i++){
-            if(nums[i] == 1){
-                if(i-index-1 < k){
-                    return false;
-                }
-                index = i;
+
+
+        while(i < nums.length){
+            if(nums[i] == 1) {
+                if(i - prev - 1 < k) return false;
+                prev = i;
             }
-            
+            i++;
         }
+
         return true;
     }
 }
