@@ -203,6 +203,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0443-string-compression](https://github.com/a-shekhar/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/a-shekhar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0925-long-pressed-name](https://github.com/a-shekhar/LeetCode/tree/master/0925-long-pressed-name) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -328,6 +329,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0392-is-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/a-shekhar/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/a-shekhar/LeetCode/tree/master/0567-permutation-in-string) |
+| [0925-long-pressed-name](https://github.com/a-shekhar/LeetCode/tree/master/0925-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
