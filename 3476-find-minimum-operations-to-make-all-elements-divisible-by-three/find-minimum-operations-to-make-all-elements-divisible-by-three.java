@@ -1,11 +1,10 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int result = 0;
-        int rem;
+        int minOp = 0;
         for(int num : nums){
-            rem = num % 3;
-            result += Math.min(rem, Math.abs(3-rem));
+            int rem = num % 3;
+            minOp += Math.min(rem, 3 - rem);
         }
-        return result;
+        return minOp;
     }
 }
