@@ -27,6 +27,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0054-spiral-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/a-shekhar/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/a-shekhar/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/a-shekhar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/a-shekhar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/a-shekhar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/a-shekhar/LeetCode/tree/master/0066-plus-one) |
@@ -698,6 +699,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/a-shekhar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/a-shekhar/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
@@ -792,6 +794,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0036-valid-sudoku](https://github.com/a-shekhar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/a-shekhar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/a-shekhar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/a-shekhar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/a-shekhar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
