@@ -521,6 +521,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0776-n-ary-tree-postorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -585,6 +586,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0654-maximum-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -662,6 +664,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0776-n-ary-tree-postorder-traversal](https://github.com/a-shekhar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -705,6 +708,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/a-shekhar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Simulation
 |  |
 | ------- |
