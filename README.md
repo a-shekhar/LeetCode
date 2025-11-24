@@ -169,6 +169,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/a-shekhar/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -219,6 +220,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/a-shekhar/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/a-shekhar/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/a-shekhar/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
@@ -301,6 +303,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/a-shekhar/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/a-shekhar/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
