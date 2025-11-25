@@ -163,6 +163,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0816-design-hashset](https://github.com/a-shekhar/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -473,6 +474,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0795-k-th-symbol-in-grammar](https://github.com/a-shekhar/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/a-shekhar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
