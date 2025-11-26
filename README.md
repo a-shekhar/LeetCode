@@ -100,6 +100,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/a-shekhar/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
