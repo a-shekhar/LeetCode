@@ -118,6 +118,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3221-find-the-peaks](https://github.com/a-shekhar/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/a-shekhar/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/a-shekhar/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/a-shekhar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/a-shekhar/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -328,6 +329,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/a-shekhar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/a-shekhar/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/a-shekhar/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [4052-equal-score-substrings](https://github.com/a-shekhar/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Two Pointers
 |  |
