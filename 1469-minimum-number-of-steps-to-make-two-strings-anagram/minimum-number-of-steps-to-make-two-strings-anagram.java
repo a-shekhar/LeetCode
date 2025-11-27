@@ -6,7 +6,7 @@ class Solution {
             freq[t.charAt(i) - 'a']--;
         }
 
-        System.out.println(Arrays.toString(freq));
+        //System.out.println(Arrays.toString(freq));
 
 
         int count = 0;
