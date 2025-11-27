@@ -169,6 +169,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0817-design-hashmap](https://github.com/a-shekhar/LeetCode/tree/master/0817-design-hashmap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/a-shekhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -223,6 +224,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0925-long-pressed-name](https://github.com/a-shekhar/LeetCode/tree/master/0925-long-pressed-name) |
 | [1143-longest-common-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/a-shekhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -313,6 +315,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0347-top-k-frequent-elements](https://github.com/a-shekhar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/a-shekhar/LeetCode/tree/master/0383-ransom-note) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/a-shekhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
