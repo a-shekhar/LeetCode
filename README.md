@@ -231,6 +231,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2423-remove-letter-to-equalize-frequency](https://github.com/a-shekhar/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2785-sort-vowels-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/a-shekhar/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -265,6 +266,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/a-shekhar/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2785-sort-vowels-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4107-find-missing-elements](https://github.com/a-shekhar/LeetCode/tree/master/4107-find-missing-elements) |
