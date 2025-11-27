@@ -121,6 +121,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3397-find-the-integer-added-to-array-i](https://github.com/a-shekhar/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/a-shekhar/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/a-shekhar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/a-shekhar/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/a-shekhar/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
