@@ -10,9 +10,6 @@ class Solution {
 
         Arrays.sort(digits);
 
-        int num1 = ((digits[0] * 10) + digits[2]) + ((digits[1] * 10) + digits[3]);
-        int num2 = ((digits[0] * 10) + digits[3]) + ((digits[1] * 10) + digits[2]);
-        
-        return Math.min(num1, num2);
+        return ((digits[0] * 10) + digits[2]) + ((digits[1] * 10) + digits[3]);
     }
 }
