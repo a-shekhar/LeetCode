@@ -113,6 +113,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a-shekhar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/a-shekhar/LeetCode/tree/master/3164-last-visited-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/a-shekhar/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a-shekhar/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -183,6 +184,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a-shekhar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/a-shekhar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
