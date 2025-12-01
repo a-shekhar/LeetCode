@@ -86,6 +86,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/a-shekhar/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0942-di-string-match](https://github.com/a-shekhar/LeetCode/tree/master/0942-di-string-match) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/a-shekhar/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/a-shekhar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -224,6 +225,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0680-valid-palindrome-ii](https://github.com/a-shekhar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0800-letter-case-permutation](https://github.com/a-shekhar/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0925-long-pressed-name](https://github.com/a-shekhar/LeetCode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/a-shekhar/LeetCode/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/a-shekhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -367,6 +369,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0567-permutation-in-string](https://github.com/a-shekhar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/a-shekhar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/a-shekhar/LeetCode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/a-shekhar/LeetCode/tree/master/0942-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -732,6 +735,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0605-can-place-flowers](https://github.com/a-shekhar/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/a-shekhar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/a-shekhar/LeetCode/tree/master/0890-lemonade-change) |
+| [0942-di-string-match](https://github.com/a-shekhar/LeetCode/tree/master/0942-di-string-match) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/a-shekhar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/a-shekhar/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/a-shekhar/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
