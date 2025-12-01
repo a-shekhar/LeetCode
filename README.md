@@ -105,6 +105,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/a-shekhar/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1980-find-unique-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -179,6 +180,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1980-find-unique-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -236,6 +238,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1980-find-unique-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/a-shekhar/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/a-shekhar/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -846,6 +849,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/a-shekhar/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/a-shekhar/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1980-find-unique-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
 | ------- |
