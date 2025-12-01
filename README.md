@@ -92,6 +92,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1018-binary-prefix-divisible-by-5](https://github.com/a-shekhar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/a-shekhar/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/a-shekhar/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -503,6 +504,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1014-k-closest-points-to-origin](https://github.com/a-shekhar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/a-shekhar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/a-shekhar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/a-shekhar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -767,6 +769,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0067-add-binary](https://github.com/a-shekhar/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/a-shekhar/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/a-shekhar/LeetCode/tree/master/0898-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/a-shekhar/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2169-simple-bank-system](https://github.com/a-shekhar/LeetCode/tree/master/2169-simple-bank-system) |
