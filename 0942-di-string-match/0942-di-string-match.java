@@ -13,7 +13,8 @@ class Solution {
             result[i] = s.charAt(i) == 'I' ? start++ : end--;
         }
 
-        result[s.length()] = s.charAt(s.length()-1) == 'I' ? start++ : end--;
+        result[s.length()] = start; // or end (same value)
+
         return result;
     }
 }
