@@ -1,14 +1,16 @@
 class Solution {
     public int countGoodRectangles(int[][] rectangles) {
         int maxLen = 0;
-        List<Integer> list = new ArrayList<>();
+        int count = 0;
         for(int[] rect : rectangles){
             int minLen = Math.min(rect[0], rect[1]);
-            list.add(minLen);
-            maxLen = Math.max(maxLen, minLen);
+            if(minLen > maxLen){
+                maxLen = minLen;
+                count = 1;
+            } else if(minLen == maxLen){
+                count++;
+            }
         }
-
-        int len = maxLen;
-        return (int) list.parallelStream().filter(num -> num == len).count();
+        return count;
     }
 }
