@@ -102,6 +102,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1572-subrectangle-queries](https://github.com/a-shekhar/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/a-shekhar/LeetCode/tree/master/1582-design-browser-history) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/a-shekhar/LeetCode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/a-shekhar/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
