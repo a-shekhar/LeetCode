@@ -114,6 +114,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/a-shekhar/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/a-shekhar/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -188,6 +189,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2413-smallest-number-in-infinite-set](https://github.com/a-shekhar/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/a-shekhar/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/a-shekhar/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/a-shekhar/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a-shekhar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
