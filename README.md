@@ -196,6 +196,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2856-count-complete-subarrays-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a-shekhar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/a-shekhar/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/a-shekhar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -255,6 +256,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/a-shekhar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/a-shekhar/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3379-score-of-a-string](https://github.com/a-shekhar/LeetCode/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/a-shekhar/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -342,6 +344,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2163-kth-distinct-string-in-an-array](https://github.com/a-shekhar/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/a-shekhar/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/a-shekhar/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/a-shekhar/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
