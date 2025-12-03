@@ -139,6 +139,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/a-shekhar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3797-design-spreadsheet](https://github.com/a-shekhar/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -204,6 +205,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3527-find-the-most-common-response](https://github.com/a-shekhar/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/a-shekhar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3797-design-spreadsheet](https://github.com/a-shekhar/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/a-shekhar/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -296,6 +298,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/a-shekhar/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/a-shekhar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4107-find-missing-elements](https://github.com/a-shekhar/LeetCode/tree/master/4107-find-missing-elements) |
@@ -774,6 +777,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/a-shekhar/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/a-shekhar/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/a-shekhar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search Tree
 |  |
