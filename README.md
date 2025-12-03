@@ -128,6 +128,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3221-find-the-peaks](https://github.com/a-shekhar/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/a-shekhar/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/a-shekhar/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/a-shekhar/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/a-shekhar/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/a-shekhar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/a-shekhar/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
