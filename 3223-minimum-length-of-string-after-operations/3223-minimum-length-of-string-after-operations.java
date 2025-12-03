@@ -5,16 +5,13 @@ class Solution {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        int deleted = 0;
+        int ans = 0;
 
         for(Map.Entry<Character, Integer> entry : map.entrySet()){
             int val = entry.getValue();
-            while(val >= 3){
-                deleted += 2;
-                val -= 2;
-            }
+            ans += val % 2 == 0 ? 2 : 1;
         }
 
-        return s.length() - deleted;
+        return ans;
     }
 }
