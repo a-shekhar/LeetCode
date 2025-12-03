@@ -92,6 +92,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1018-binary-prefix-divisible-by-5](https://github.com/a-shekhar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/a-shekhar/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/a-shekhar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/a-shekhar/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/a-shekhar/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -238,6 +239,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0925-long-pressed-name](https://github.com/a-shekhar/LeetCode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/a-shekhar/LeetCode/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/a-shekhar/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/a-shekhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/a-shekhar/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -723,6 +725,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/a-shekhar/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -798,6 +801,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | ------- |
 | [0014-longest-common-prefix](https://github.com/a-shekhar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/a-shekhar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/a-shekhar/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Interactive
 |  |
 | ------- |
