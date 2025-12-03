@@ -269,6 +269,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/a-shekhar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3617-find-the-original-typed-string-i](https://github.com/a-shekhar/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/a-shekhar/LeetCode/tree/master/3636-check-balanced-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/a-shekhar/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -404,6 +405,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1894-merge-strings-alternately](https://github.com/a-shekhar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/a-shekhar/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/a-shekhar/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -550,6 +552,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a-shekhar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/a-shekhar/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/a-shekhar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/a-shekhar/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -706,6 +709,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a-shekhar/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a-shekhar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/a-shekhar/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
