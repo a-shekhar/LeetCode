@@ -1,6 +1,6 @@
 class Solution {
     public int countPartitions(int[] nums) {
-         int suffixSum = 0;
+        int suffixSum = 0;
         int prefixSum = 0;
         int count = 0;
 
