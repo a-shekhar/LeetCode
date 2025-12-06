@@ -107,6 +107,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/a-shekhar/LeetCode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/a-shekhar/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/a-shekhar/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1980-find-unique-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/a-shekhar/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -543,6 +544,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/a-shekhar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/a-shekhar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/a-shekhar/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/a-shekhar/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/a-shekhar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -712,6 +714,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1018-binary-prefix-divisible-by-5](https://github.com/a-shekhar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/a-shekhar/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/a-shekhar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/a-shekhar/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a-shekhar/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a-shekhar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -839,6 +842,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/a-shekhar/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/a-shekhar/LeetCode/tree/master/3221-find-the-peaks) |
 ## Number Theory
@@ -890,6 +894,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/a-shekhar/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/a-shekhar/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/a-shekhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
@@ -935,6 +940,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/a-shekhar/LeetCode/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Doubly-Linked List
 |  |
