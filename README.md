@@ -542,6 +542,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/a-shekhar/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1399-count-largest-group](https://github.com/a-shekhar/LeetCode/tree/master/1399-count-largest-group) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/a-shekhar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/a-shekhar/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/a-shekhar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/a-shekhar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/a-shekhar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
