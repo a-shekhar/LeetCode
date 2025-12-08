@@ -305,6 +305,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/a-shekhar/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/a-shekhar/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/a-shekhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/a-shekhar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/a-shekhar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3778-transform-array-by-parity](https://github.com/a-shekhar/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/a-shekhar/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -557,6 +558,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [3432-count-partitions-with-even-sum-difference](https://github.com/a-shekhar/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-shekhar/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/a-shekhar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/a-shekhar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/a-shekhar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-shekhar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a-shekhar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
