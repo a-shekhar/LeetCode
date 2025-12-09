@@ -612,6 +612,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/a-shekhar/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -640,6 +641,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0813-all-paths-from-source-to-target](https://github.com/a-shekhar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/a-shekhar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/a-shekhar/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -677,6 +679,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [0789-kth-largest-element-in-a-stream](https://github.com/a-shekhar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/a-shekhar/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Memoization
@@ -761,6 +764,7 @@ Question No may not match with actual LeetCode question number. So search with Q
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/a-shekhar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/a-shekhar/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-deepest-leaves-sum](https://github.com/a-shekhar/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/a-shekhar/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/a-shekhar/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/a-shekhar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
