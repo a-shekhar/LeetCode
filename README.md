@@ -992,4 +992,8 @@ Question No may not match with actual LeetCode question number. So search with Q
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/a-shekhar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/a-shekhar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
